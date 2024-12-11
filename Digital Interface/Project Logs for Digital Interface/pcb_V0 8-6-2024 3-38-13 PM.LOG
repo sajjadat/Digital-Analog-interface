@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=P1-1
+Removed Pin From Net: NetName=A_485 Pin=P?-1
+Removed Pin From Net: NetName=B_485 Pin=P?-2
+Removed Pin From Net: NetName=Y_485 Pin=P?-3
+Removed Pin From Net: NetName=Z_485 Pin=P?-4
+Removed Pin From Net: NetName=GND_SER_485 Pin=P?-6
+Removed Pin From Net: NetName=GND_SER_485 Pin=P?-7
+Removed Pin From Net: NetName=GND_SER_485 Pin=P?-8
+Removed Pin From Net: NetName=GND_SER_485 Pin=P?-9
+Removed Member From Class: ClassName=Isolators Member=C1
+Removed Member From Class: ClassName=USB_TTL Member=C1
+Removed Member From Class: ClassName=Isolators Member=IC1
+Removed Member From Class: ClassName=MCU Sup Member=P2
+Removed Member From Class: ClassName=USB_TTL Member=R3
+Removed Member From Class: ClassName=USB HUB Member=R3
+Removed Member From Class: ClassName=MCU Sup Member=SW1
+Removed Member From Class: ClassName=MCU 1 Member=X4
+Added Component: Designator=IC4(QFN50P600X600X100-37N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "USB2514B-AEZG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/usb2514b-aezg/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USB2514B-AEZG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "886-USB2514B-AEZG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/USB2514B-AEZG?qs=ydWXD%252B8LvLCxuNqQPTEcVA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FT2232_West_DM Pin=IC4-1
+Added Pin To Net: NetName=FT2232_West_DP Pin=IC4-2
+Added Pin To Net: NetName=FT2232_East_DM Pin=IC4-3
+Added Pin To Net: NetName=FT2232_East_DP Pin=IC4-4
+Added Pin To Net: NetName=HUB_3V3 Pin=IC4-5
+Added Pin To Net: NetName=HUB_3V3 Pin=IC4-10
+Added Pin To Net: NetName=GND Pin=IC4-11
+Added Pin To Net: NetName=CRFILT Pin=IC4-14
+Added Pin To Net: NetName=HUB_3V3 Pin=IC4-15
+Added Pin To Net: NetName=NetIC4_22 Pin=IC4-22
+Added Pin To Net: NetName=HUB_3V3 Pin=IC4-23
+Added Pin To Net: NetName=NetIC4_24 Pin=IC4-24
+Added Pin To Net: NetName=NetIC4_25 Pin=IC4-25
+Added Pin To Net: NetName=RESETn_USBHUB Pin=IC4-26
+Added Pin To Net: NetName=VBUS_DET Pin=IC4-27
+Added Pin To Net: NetName=NetD7_2 Pin=IC4-28
+Added Pin To Net: NetName=HUB_3V3 Pin=IC4-29
+Added Pin To Net: NetName=USBUP_DM Pin=IC4-30
+Added Pin To Net: NetName=USBUP_DP Pin=IC4-31
+Added Pin To Net: NetName=NetC35_1 Pin=IC4-32
+Added Pin To Net: NetName=NetC33_1 Pin=IC4-33
+Added Pin To Net: NetName=PLLFILT Pin=IC4-34
+Added Pin To Net: NetName=RBIAS Pin=IC4-35
+Added Pin To Net: NetName=HUB_3V3 Pin=IC4-36
+Added Pin To Net: NetName=GND Pin=IC4-37
+Added Pin To Net: NetName=GPO1_OUT Pin=IC6-2
+Added Pin To Net: NetName=GPO2_OUT Pin=IC6-3
+Added Pin To Net: NetName=GPO3_OUT Pin=IC6-4
+Added Pin To Net: NetName=GPO4_OUT Pin=IC6-5
+Added Pin To Net: NetName=A_485 Pin=P?-2
+Added Pin To Net: NetName=B_485 Pin=P?-3
+Added Pin To Net: NetName=Y_485 Pin=P?-4
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-5
+Added Pin To Net: NetName=Power_Switch Pin=P1-1
+Added Net: Name=Power_Switch
+Added Pin To Net: NetName=Power Switch Pin=IC6-14
+Added Net: Name=Power Switch
+Change Class Name : Old Net Name=Display New Net Name=Display 
+Added Member To Class: ClassName=USB_TTL Member=Component C111 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Main Power Member=Component D3 SS24F
+Added Member To Class: ClassName=USB HUB Member=Component IC4 USB2514B-AEZG
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Terminals Member=Component J1 Right Angel SMA
+Added Member To Class: ClassName=AUX Power Member=Component JP7 JMPHDR2PIN
+Added Member To Class: ClassName=MCU Sup Member=Component P4 Header 2x3
+Added Member To Class: ClassName=Terminals Member=Component P? DSUB_9RF
+Added Member To Class: ClassName=Terminals Member=Component P? DSUB_9RF
+Added Member To Class: ClassName=USB HUB Member=Component R21 12.0k    1%
+Added Member To Class: ClassName=USB_TTL Member=Component R? 10K
+Added Member To Class: ClassName=USB_TTL Member=Component R? 10K
+Added Member To Class: ClassName=MCU Sup Member=Component SW2 PUSHBUTTON
+Added Member To Class: ClassName=Test Points Member=Component TP2 TESTPOINT_PROBE
+Added Member To Class: ClassName=Main Power Member=Component U1 MJWI10-24S05
+Added Member To Class: ClassName=MCU 1 Member=Component X1 XTL_32.768KHz

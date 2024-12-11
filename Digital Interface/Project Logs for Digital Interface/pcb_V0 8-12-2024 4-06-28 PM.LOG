@@ -1,0 +1,251 @@
+Removed Pin From Net: NetName=GND Pin=C69-2
+Removed Pin From Net: NetName=GND_ISO Pin=C70-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=C71-1
+Removed Pin From Net: NetName=GND_ISO Pin=C71-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=C72-1
+Removed Pin From Net: NetName=GND_ISO Pin=C72-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=C73-1
+Removed Pin From Net: NetName=GND_ISO Pin=C73-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=C74-1
+Removed Pin From Net: NetName=GND_ISO Pin=C74-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=C75-1
+Removed Pin From Net: NetName=GND_ISO Pin=C75-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=C76-1
+Removed Pin From Net: NetName=GND_ISO Pin=C76-2
+Removed Pin From Net: NetName=VREF+ Pin=C77-1
+Removed Pin From Net: NetName=GND_ISO Pin=C77-2
+Removed Pin From Net: NetName=VREF+ Pin=C78-1
+Removed Pin From Net: NetName=GND_ISO Pin=C78-2
+Removed Pin From Net: NetName=VCAP Pin=C79-1
+Removed Pin From Net: NetName=GND_ISO Pin=C79-2
+Removed Pin From Net: NetName=VCAP Pin=C80-1
+Removed Pin From Net: NetName=GND_ISO Pin=C80-2
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=C81-1
+Removed Pin From Net: NetName=GND Pin=C81-2
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=P6-1
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=P6-2
+Removed Pin From Net: NetName=GND_ISO Pin=P6-5
+Removed Pin From Net: NetName=GND_ISO Pin=P6-6
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=R31-2
+Removed Pin From Net: NetName=ON/OFF Remote1 Pin=R53-1
+Removed Pin From Net: NetName=ON/OFF Remote1 Pin=R54-2
+Removed Pin From Net: NetName=ON/OFF Remote2 Pin=R55-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=+Vin Pin=SW3-1
+Removed Pin From Net: NetName=+Vin Pin=SW3-2
+Removed Pin From Net: NetName=GND_ISO Pin=U6-8
+Removed Pin From Net: NetName=GND_ISO Pin=U6-23
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=U6-24
+Removed Pin From Net: NetName=GND_ISO Pin=U6-35
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=U6-36
+Removed Pin From Net: NetName=GND_ISO Pin=U6-47
+Removed Pin From Net: NetName=MCU_SUP_3V3ISO Pin=U6-48
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=U7-2
+Removed Pin From Net: NetName=SCK_DISP Pin=U7-3
+Removed Pin From Net: NetName=MOSI_DISP Pin=U7-4
+Removed Pin From Net: NetName=RES_DISP Pin=U7-5
+Removed Pin From Net: NetName=DC_DISP Pin=U7-6
+Removed Pin From Net: NetName=CS_DISP Pin=U7-7
+Change Component Footprint: Designator=R54 Old Footprint=R2010 New Footprint=R0603
+Change Component Footprint: Designator=R56 Old Footprint=R2010 New Footprint=R0603
+Change Component Footprint: Designator=R53 Old Footprint=R2010 New Footprint=R1206
+Change Component Footprint: Designator=R55 Old Footprint=R2010 New Footprint=R1206
+Change Component Comment : Designator=R54 Old Comment=1K New Comment=10E
+Change Component Comment : Designator=R56 Old Comment=1K New Comment=10E
+Change Component Comment : Designator=R53 Old Comment=680E New Comment=10K
+Change Component Comment : Designator=R55 Old Comment=680E New Comment=10K
+Change Component Designator: OldDesignator=IC? NewDesignator=IC6
+Change Component Designator: OldDesignator=IC? NewDesignator=IC12
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=RA? NewDesignator=RA1
+Change Component Designator: OldDesignator=RA? NewDesignator=RA2
+Change Component Designator: OldDesignator=RA? NewDesignator=RA3
+Change Component Designator: OldDesignator=RA? NewDesignator=RA4
+Change Component Designator: OldDesignator=RA? NewDesignator=RA5
+Change Component Designator: OldDesignator=RA? NewDesignator=RA6
+Change Component Designator: OldDesignator=RA? NewDesignator=RA7
+Change Component Designator: OldDesignator=RA? NewDesignator=RA8
+Change Component Designator: OldDesignator=SCRW? NewDesignator=SCRW1
+Change component parameters: Designator = "R53" ("R53"); Footprint = "R2010"; UniqueID = "\PFLEIOWU" ("\PFLEIOWU")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R54" ("R54"); Footprint = "R2010"; UniqueID = "\YQNZRXBI" ("\YQNZRXBI")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55" ("R55"); Footprint = "R2010"; UniqueID = "\LLMQDNEB" ("\LLMQDNEB")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56" ("R56"); Footprint = "R2010"; UniqueID = "\VHHLZPEY" ("\VHHLZPEY")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10E"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P640X120-14N
+Added Component: Designator=J?(FPC50_40V)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "FH12-40S-0.5SVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "FPC50_40"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FPC50_40T)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FPC50_40)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+Vin Pin=R53-1
+Added Pin To Net: NetName=ON/OFF Remote1 Pin=R53-2
+Added Pin To Net: NetName=+Vin Pin=R55-1
+Added Pin To Net: NetName=ON/OFF Remote2 Pin=R55-2
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA5-2
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA5-3
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA6-1
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA7-2
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA7-3
+Added Pin To Net: NetName=ON/OFF Remote1 Pin=SW3-3
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC6_6
+Change Net Name : Old Net Name=NetIC?_10 New Net Name=NetIC6_10
+Change Net Name : Old Net Name=NetIC?_14 New Net Name=NetIC6_14
+Change Net Name : Old Net Name=NetIC?_18 New Net Name=NetIC6_18
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=NetIC6_3 Pin=RA1-8
+Added Net: Name=NetIC6_3
+Added Pin To Net: NetName=NetIC6_4 Pin=IC6-4
+Added Pin To Net: NetName=NetIC6_4 Pin=RA1-7
+Added Net: Name=NetIC6_4
+Added Pin To Net: NetName=NetIC6_5 Pin=IC6-5
+Added Pin To Net: NetName=NetIC6_5 Pin=RA1-6
+Added Net: Name=NetIC6_5
+Added Pin To Net: NetName=NetIC6_7 Pin=IC6-7
+Added Pin To Net: NetName=NetIC6_7 Pin=RA3-8
+Added Net: Name=NetIC6_7
+Added Pin To Net: NetName=NetIC6_8 Pin=IC6-8
+Added Pin To Net: NetName=NetIC6_8 Pin=RA3-7
+Added Net: Name=NetIC6_8
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-9
+Added Pin To Net: NetName=NetIC6_9 Pin=RA3-6
+Added Net: Name=NetIC6_9
+Added Pin To Net: NetName=NetIC6_15 Pin=IC6-15
+Added Pin To Net: NetName=NetIC6_15 Pin=RA4-3
+Added Net: Name=NetIC6_15
+Added Pin To Net: NetName=NetIC6_16 Pin=IC6-16
+Added Pin To Net: NetName=NetIC6_16 Pin=RA4-2
+Added Net: Name=NetIC6_16
+Added Pin To Net: NetName=NetIC6_17 Pin=IC6-17
+Added Pin To Net: NetName=NetIC6_17 Pin=RA4-1
+Added Net: Name=NetIC6_17
+Added Pin To Net: NetName=NetIC6_19 Pin=IC6-19
+Added Pin To Net: NetName=NetIC6_19 Pin=RA2-3
+Added Net: Name=NetIC6_19
+Added Pin To Net: NetName=NetIC6_20 Pin=IC6-20
+Added Pin To Net: NetName=NetIC6_20 Pin=RA2-2
+Added Net: Name=NetIC6_20
+Added Pin To Net: NetName=NetIC6_21 Pin=IC6-21
+Added Pin To Net: NetName=NetIC6_21 Pin=RA2-1
+Added Net: Name=NetIC6_21
+Added Pin To Net: NetName=NetIC12_4 Pin=IC12-4
+Added Pin To Net: NetName=NetIC12_4 Pin=RA5-7
+Added Net: Name=NetIC12_4
+Added Pin To Net: NetName=NetIC12_5 Pin=IC12-5
+Added Pin To Net: NetName=NetIC12_5 Pin=RA5-6
+Added Net: Name=NetIC12_5
+Added Pin To Net: NetName=NetIC12_6 Pin=IC12-6
+Added Pin To Net: NetName=NetIC12_6 Pin=RA5-5
+Added Net: Name=NetIC12_6
+Added Pin To Net: NetName=NetIC12_7 Pin=IC12-7
+Added Pin To Net: NetName=NetIC12_7 Pin=RA6-8
+Added Net: Name=NetIC12_7
+Added Pin To Net: NetName=NetIC12_8 Pin=IC12-8
+Added Pin To Net: NetName=NetIC12_8 Pin=RA7-7
+Added Net: Name=NetIC12_8
+Added Pin To Net: NetName=NetIC12_9 Pin=IC12-9
+Added Pin To Net: NetName=NetIC12_9 Pin=RA7-6
+Added Net: Name=NetIC12_9
+Added Pin To Net: NetName=NetIC12_10 Pin=IC12-10
+Added Pin To Net: NetName=NetIC12_10 Pin=RA7-5
+Added Net: Name=NetIC12_10
+Added Pin To Net: NetName=NetIC12_14 Pin=IC12-14
+Added Pin To Net: NetName=NetIC12_14 Pin=RA8-4
+Added Net: Name=NetIC12_14
+Added Pin To Net: NetName=NetIC12_15 Pin=IC12-15
+Added Pin To Net: NetName=NetIC12_15 Pin=RA8-3
+Added Net: Name=NetIC12_15
+Added Pin To Net: NetName=NetIC12_16 Pin=IC12-16
+Added Pin To Net: NetName=NetIC12_16 Pin=RA8-2
+Added Net: Name=NetIC12_16
+Added Pin To Net: NetName=NetIC12_17 Pin=IC12-17
+Added Pin To Net: NetName=NetIC12_17 Pin=RA7-1
+Added Net: Name=NetIC12_17
+Added Pin To Net: NetName=NetIC12_18 Pin=IC12-18
+Added Pin To Net: NetName=NetIC12_18 Pin=RA6-4
+Added Net: Name=NetIC12_18
+Added Pin To Net: NetName=NetIC12_19 Pin=IC12-19
+Added Pin To Net: NetName=NetIC12_19 Pin=RA6-3
+Added Net: Name=NetIC12_19
+Added Pin To Net: NetName=NetIC12_20 Pin=IC12-20
+Added Pin To Net: NetName=NetIC12_20 Pin=RA6-2
+Added Net: Name=NetIC12_20
+Added Pin To Net: NetName=NetIC12_21 Pin=IC12-21
+Added Pin To Net: NetName=NetIC12_21 Pin=RA5-1
+Added Net: Name=NetIC12_21
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=SW3-1
+Added Pin To Net: NetName=NetR54_2 Pin=SW3-2
+Added Net: Name=NetR54_2
+Added Class: Name=Display 
+Added Class: Name=On Board Terminals
+Added Member To Class: ClassName=GPIOs Member=Component IC12 SN74LVC8T245DBQR
+Added Member To Class: ClassName=GPIOs Member=Component RA1 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA2 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA3 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA4 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA6 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA7 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA8 Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component  Film Res Pack

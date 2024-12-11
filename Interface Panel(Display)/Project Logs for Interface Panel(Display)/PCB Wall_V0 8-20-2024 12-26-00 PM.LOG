@@ -1,0 +1,27 @@
+Added Component: Designator=U1(OLED_SSD1306_64_SPI)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "OLED_SSD1306_I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "2 Colors, 0.96", 128X64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "3.3/5VCC, -20~70oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "OLED_SSD1306"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3_Main Pin=U1-2
+Added Net: Name=+3V3_Main
+Added Pin To Net: NetName=CS_DISP Pin=U1-7
+Added Net: Name=CS_DISP
+Added Pin To Net: NetName=DC_DISP Pin=U1-6
+Added Net: Name=DC_DISP
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MOSI_DISP Pin=U1-4
+Added Net: Name=MOSI_DISP
+Added Pin To Net: NetName=RES_DISP Pin=U1-5
+Added Net: Name=RES_DISP
+Added Pin To Net: NetName=SCK_DISP Pin=U1-3
+Added Net: Name=SCK_DISP
+Added Class: Name=Disp
+Added Class: Name=JTAG
+Added Class: Name=On Board Terminal

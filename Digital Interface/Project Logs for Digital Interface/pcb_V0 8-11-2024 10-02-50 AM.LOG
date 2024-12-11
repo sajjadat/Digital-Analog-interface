@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=JP7-1
+Removed Pin From Net: NetName=HUB_VDD Pin=JP7-2
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=JP8-1
+Removed Pin From Net: NetName=MCU_VDD Pin=JP8-2
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=JP9-1
+Removed Pin From Net: NetName=FT2232_East_VDD Pin=JP9-2
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=JP10-1
+Removed Pin From Net: NetName=FT2232_West_VDD Pin=JP10-2
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=JP11-1
+Removed Pin From Net: NetName=RS232_VDD Pin=JP11-2
+Removed Member From Class: ClassName=AUX Power Member=JP7
+Removed Member From Class: ClassName=AUX Power Member=JP8
+Removed Member From Class: ClassName=AUX Power Member=JP9
+Removed Member From Class: ClassName=AUX Power Member=JP10
+Removed Member From Class: ClassName=AUX Power Member=JP11
+Change Class Name : Old Net Name=Display New Net Name=Display 

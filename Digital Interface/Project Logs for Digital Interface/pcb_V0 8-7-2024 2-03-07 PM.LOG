@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=C8-1
+Removed Pin From Net: NetName=GND_ISO Pin=C8-2
+Removed Member From Class: ClassName=Main Power Member=C8
+Added Component: Designator=C?(C_TN_3528)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Current_Measurement_4_in+ Pin=C?-1
+Added Pin To Net: NetName=GND_ISO Pin=C?-2
+Added Member To Class: ClassName=Main Power Member=Component C? 0.22uF

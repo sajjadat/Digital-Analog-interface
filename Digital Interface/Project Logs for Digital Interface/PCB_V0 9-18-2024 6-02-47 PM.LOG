@@ -1,0 +1,318 @@
+Removed Member From Class: ClassName=Terminals Member=C18
+Removed Member From Class: ClassName=Main Power Member=C20
+Removed Member From Class: ClassName=Power Switch Member=C37
+Removed Member From Class: ClassName=Power Switch Member=C39
+Removed Member From Class: ClassName=Power Switch Member=C41
+Removed Member From Class: ClassName=Main Power Member=C43
+Removed Member From Class: ClassName=Power Switch Member=C43
+Removed Member From Class: ClassName=Power Switch Member=C45
+Removed Member From Class: ClassName=AUX Power Member=C47
+Removed Member From Class: ClassName=Power Switch Member=C49
+Removed Member From Class: ClassName=MCU 1 Member=C56
+Removed Member From Class: ClassName=Power Switch Member=C56
+Removed Member From Class: ClassName=MCU 1 Member=C58
+Removed Member From Class: ClassName=Power Switch Member=C58
+Removed Member From Class: ClassName=MCU 1 Member=C60
+Removed Member From Class: ClassName=Power Switch Member=C60
+Removed Member From Class: ClassName=MCU 1 Member=C62
+Removed Member From Class: ClassName=MCU 1 Member=C64
+Removed Member From Class: ClassName=MCU 1 Member=C66
+Removed Member From Class: ClassName=Power Switch Member=C66
+Removed Member From Class: ClassName=FT2232HL_IN Member=C67
+Removed Member From Class: ClassName=MCU 1 Member=C67
+Removed Member From Class: ClassName=FT2232HL_IN Member=C68
+Removed Member From Class: ClassName=MCU 1 Member=C68
+Removed Member From Class: ClassName=RS485 Member=C68
+Removed Member From Class: ClassName=MCU 1 Member=C69
+Removed Member From Class: ClassName=MCU 1 Member=C70
+Removed Member From Class: ClassName=Power Switch Member=C70
+Removed Member From Class: ClassName=USB HUB Member=C70
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C88
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C121
+Removed Member From Class: ClassName=RS232 Member=C123
+Removed Member From Class: ClassName=RS232 Member=C125
+Removed Member From Class: ClassName=RS232 Member=C127
+Removed Member From Class: ClassName=Audio Codec Member=C128
+Removed Member From Class: ClassName=Audio Codec Member=C129
+Removed Member From Class: ClassName=Audio Codec Member=C130
+Removed Member From Class: ClassName=Audio Codec Member=C131
+Removed Member From Class: ClassName=Audio Codec Member=C132
+Removed Member From Class: ClassName=Audio Codec Member=C133
+Removed Member From Class: ClassName=Audio Codec Member=C134
+Removed Member From Class: ClassName=Audio Codec Member=C135
+Removed Member From Class: ClassName=Audio Codec Member=C136
+Removed Member From Class: ClassName=Audio Codec Member=C137
+Removed Member From Class: ClassName=Audio Codec Member=C138
+Removed Member From Class: ClassName=Audio Codec Member=C139
+Removed Member From Class: ClassName=Audio Codec Member=C140
+Removed Member From Class: ClassName=Audio Codec Member=C141
+Removed Member From Class: ClassName=FT2232HL_IN Member=C142
+Removed Member From Class: ClassName=FT2232HL_IN Member=C143
+Removed Member From Class: ClassName=RS485 Member=C143
+Removed Member From Class: ClassName=FT2232HL_IN Member=C144
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C145
+Removed Member From Class: ClassName=FT2232HL_IN Member=C145
+Removed Member From Class: ClassName=RS485 Member=C145
+Removed Member From Class: ClassName=FT2232HL_IN Member=D15
+Removed Member From Class: ClassName=Main Power Member=D15
+Removed Member From Class: ClassName=USB HUB Member=D15
+Removed Member From Class: ClassName=AUX Power Member=D16
+Removed Member From Class: ClassName=FT2232HL_IN Member=D16
+Removed Member From Class: ClassName=Main Power Member=D16
+Removed Member From Class: ClassName=Mode Switch Member=IC7
+Removed Member From Class: ClassName=Mode Switch Member=IC8
+Removed Member From Class: ClassName=Buffers Member=IC9
+Removed Member From Class: ClassName=Main Power Member=IC12
+Removed Member From Class: ClassName=Level Shifting Member=IC16
+Removed Member From Class: ClassName=Power Switch Member=IC16
+Removed Member From Class: ClassName=Main Power Member=IC17
+Removed Member From Class: ClassName=USB HUB Member=IC17
+Removed Member From Class: ClassName=Audio Codec Member=IC29
+Removed Member From Class: ClassName=AUX Power Member=L1
+Removed Member From Class: ClassName=Power Switch Member=R24
+Removed Member From Class: ClassName=MCU 1 Member=R26
+Removed Member From Class: ClassName=Power Switch Member=R26
+Removed Member From Class: ClassName=MCU 1 Member=R28
+Removed Member From Class: ClassName=Power Switch Member=R28
+Removed Member From Class: ClassName=MCU 1 Member=R30
+Removed Member From Class: ClassName=MCU 1 Member=R35
+Removed Member From Class: ClassName=Power Switch Member=R35
+Removed Member From Class: ClassName=USB HUB Member=R35
+Removed Member From Class: ClassName=MCU 1 Member=R37
+Removed Member From Class: ClassName=Power Switch Member=R37
+Removed Member From Class: ClassName=USB HUB Member=R37
+Removed Member From Class: ClassName=Power Switch Member=R39
+Removed Member From Class: ClassName=USB HUB Member=R39
+Removed Member From Class: ClassName=BIT(Built in Test) Member=R41
+Removed Member From Class: ClassName=BIT(Built in Test) Member=R44
+Removed Member From Class: ClassName=BIT(Built in Test) Member=R48
+Removed Member From Class: ClassName=USB HUB Member=R48
+Removed Member From Class: ClassName=RS232 Member=R50
+Removed Member From Class: ClassName=Audio Codec Member=R54
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R55
+Removed Member From Class: ClassName=Sync In Member=R55
+Removed Member From Class: ClassName=Sync Out Member=R57
+Removed Member From Class: ClassName=RS485 Member=R59
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R61
+Removed Member From Class: ClassName=Audio Codec Member=R63
+Removed Member From Class: ClassName=FT2232HL_IN Member=R63
+Removed Member From Class: ClassName=FT2232HL_IN Member=R68
+Removed Member From Class: ClassName=FT2232HL_IN Member=R70
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R78
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R79
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R80
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R81
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R84
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R86
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Pin To Net: Unknown Pin: Pin IC13-1
+Add Pin To Net: Unknown Pin: Pin IC13-2
+Add Pin To Net: Unknown Pin: Pin IC13-3
+Add Pin To Net: Unknown Pin: Pin IC13-4
+Add Pin To Net: Unknown Pin: Pin IC13-5
+Add Pin To Net: Unknown Pin: Pin IC13-6
+Add Pin To Net: Unknown Pin: Pin IC13-7
+Add Pin To Net: Unknown Pin: Pin IC13-8
+Add Pin To Net: Unknown Pin: Pin IC13-9
+Add Pin To Net: Unknown Pin: Pin IC13-10
+Add Pin To Net: Unknown Pin: Pin IC13-11
+Add Pin To Net: Unknown Pin: Pin IC13-12
+Add Pin To Net: Unknown Pin: Pin IC13-13
+Add Pin To Net: Unknown Pin: Pin IC13-14
+Add Pin To Net: Unknown Pin: Pin IC14-1
+Add Pin To Net: Unknown Pin: Pin IC14-2
+Add Pin To Net: Unknown Pin: Pin IC14-3
+Add Pin To Net: Unknown Pin: Pin IC14-4
+Add Pin To Net: Unknown Pin: Pin IC14-5
+Add Pin To Net: Unknown Pin: Pin IC14-6
+Add Pin To Net: Unknown Pin: Pin IC14-7
+Add Pin To Net: Unknown Pin: Pin IC14-8
+Add Pin To Net: Unknown Pin: Pin IC14-9
+Add Pin To Net: Unknown Pin: Pin IC14-10
+Add Pin To Net: Unknown Pin: Pin IC14-11
+Add Pin To Net: Unknown Pin: Pin IC14-12
+Add Pin To Net: Unknown Pin: Pin IC14-13
+Add Pin To Net: Unknown Pin: Pin IC14-14
+Add Pin To Net: Unknown Pin: Pin IC15-1
+Add Pin To Net: Unknown Pin: Pin IC15-2
+Add Pin To Net: Unknown Pin: Pin IC15-3
+Add Pin To Net: Unknown Pin: Pin IC15-4
+Add Pin To Net: Unknown Pin: Pin IC15-5
+Add Pin To Net: Unknown Pin: Pin IC15-6
+Add Pin To Net: Unknown Pin: Pin IC15-7
+Add Pin To Net: Unknown Pin: Pin IC15-8
+Add Pin To Net: Unknown Pin: Pin IC15-9
+Add Pin To Net: Unknown Pin: Pin IC15-14
+Add Pin To Net: Unknown Pin: Pin M3-1
+Change Class Name : Old Net Name=Display  New Net Name=Isolators
+Added Class: Name=Display 
+Added Member To Class: ClassName=Terminals Member=Component C1 10nF
+Added Member To Class: ClassName=Main Power Member=Component C3 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C5 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C7 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C10 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C12 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C13 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C14 10uF
+Added Member To Class: ClassName=Main Power Member=Component C15 10uF
+Added Member To Class: ClassName=Main Power Member=Component C16 10uF
+Added Member To Class: ClassName=Main Power Member=Component C17 10uF
+Added Member To Class: ClassName=AUX Power Member=Component C19 Capacitor C SMD 1206
+Added Member To Class: ClassName=Power Switch Member=Component C21 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C22 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C23 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C24 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C25 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C26 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C27 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C28 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C29 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C30 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C31 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C32 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C33 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C34 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C35 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C36 1uF
+Added Member To Class: ClassName=MCU 1 Member=Component C38 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C40 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C42 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C44 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C46 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C48 ?nF
+Added Member To Class: ClassName=MCU 1 Member=Component C50 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C51 2.2uF
+Added Member To Class: ClassName=MCU 1 Member=Component C52 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C53 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C54 30PF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C71 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C72 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C73 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C75 100nF
+Added Member To Class: ClassName=RS232 Member=Component C77 0.1uF-10V
+Added Member To Class: ClassName=RS232 Member=Component C79 0.1uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C81 0.1uF-16V
+Added Member To Class: ClassName=RS485 Member=Component C83 10nF
+Added Member To Class: ClassName=RS485 Member=Component C85 10nF
+Added Member To Class: ClassName=RS485 Member=Component C87 10uF
+Added Member To Class: ClassName=RS485 Member=Component C89 10uF
+Added Member To Class: ClassName=Isolators Member=Component C90 100nF
+Added Member To Class: ClassName=Isolators Member=Component C91 100nF
+Added Member To Class: ClassName=Isolators Member=Component C92 100nF
+Added Member To Class: ClassName=Isolators Member=Component C93 100nF
+Added Member To Class: ClassName=Isolators Member=Component C94 100nF
+Added Member To Class: ClassName=Isolators Member=Component C95 100nF
+Added Member To Class: ClassName=Isolators Member=Component C96 100nF
+Added Member To Class: ClassName=Isolators Member=Component C97 100nF
+Added Member To Class: ClassName=Audio Codec Member=Component C98 2.2uF
+Added Member To Class: ClassName=Audio Codec Member=Component C99 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C100 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C101 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C102 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C103 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C104 4.7uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C105 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C106 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C107 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C108 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C109 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C110 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C111 2.2uF/6.3V
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C112 4.7uF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C113 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C114 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C115 4.7uF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C116 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C117 30PF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C118 4.7uF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C119 100nF
+Added Member To Class: ClassName=SD CARD  Member=Component C? Capacitor C SMD 0603
+Added Member To Class: ClassName=SD CARD  Member=Component C? Capacitor C SMD 0603
+Added Member To Class: ClassName=Main Power Member=Component D1 SS510B
+Added Member To Class: ClassName=Main Power Member=Component D3 SS24F
+Added Member To Class: ClassName=Main Power Member=Component D6 SS24F
+Added Member To Class: ClassName=Main Power Member=Component D7 SS24F
+Added Member To Class: ClassName=Main Power Member=Component D8 SS24F
+Added Member To Class: ClassName=AUX Power Member=Component D9 LED603RED
+Added Member To Class: ClassName=USB HUB Member=Component D10 LED603RED
+Added Member To Class: ClassName=FT2232HL_IN Member=Component D11 TVS603
+Added Member To Class: ClassName=FT2232HL_IN Member=Component D12 TVS603
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component D14 TVS603
+Added Member To Class: ClassName=Main Power Member=Component IC4 MCP1700T-3302E_TT_1
+Added Member To Class: ClassName=Main Power Member=Component IC5 LD1117S18CTR
+Added Member To Class: ClassName=Main Power Member=Component IC6 LD1117S18CTR
+Added Member To Class: ClassName=Power Switch Member=Component IC10 TPS2116DRLR
+Added Member To Class: ClassName=USB HUB Member=Component IC11 USB2514B-AEZG
+Added Member To Class: ClassName=Isolators Member=Component IC18 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Audio Codec Member=Component IC22 ALC5651-CGT
+Added Member To Class: ClassName=Mode Switch Member=Component IC23 TMUX1134PWR
+Added Member To Class: ClassName=Mode Switch Member=Component IC24 TMUX1134PWR
+Added Member To Class: ClassName=Terminals Member=Component J3 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J4 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J6 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J7 Right Angel SMA
+Added Member To Class: ClassName=Main Power Member=Component L2 CD43-4.7uH
+Added Member To Class: ClassName=AUX Power Member=Component L3 Inductor SMD NC 1812
+Added Member To Class: ClassName=Main Power Member=Component R2 30m
+Added Member To Class: ClassName=Main Power Member=Component R4 30m
+Added Member To Class: ClassName=Power Switch Member=Component R6 10K
+Added Member To Class: ClassName=Power Switch Member=Component R7 100K
+Added Member To Class: ClassName=Power Switch Member=Component R8 10K
+Added Member To Class: ClassName=Power Switch Member=Component R9 5K
+Added Member To Class: ClassName=Power Switch Member=Component R10 5K
+Added Member To Class: ClassName=Power Switch Member=Component R11 10K
+Added Member To Class: ClassName=Power Switch Member=Component R12 10K
+Added Member To Class: ClassName=Power Switch Member=Component R15 10K
+Added Member To Class: ClassName=Power Switch Member=Component R16 5K
+Added Member To Class: ClassName=Power Switch Member=Component R17 5K
+Added Member To Class: ClassName=MCU 1 Member=Component R18 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R19 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R20 1M
+Added Member To Class: ClassName=MCU 1 Member=Component R21 10k
+Added Member To Class: ClassName=MCU 1 Member=Component R22 10k
+Added Member To Class: ClassName=USB HUB Member=Component R23 1M
+Added Member To Class: ClassName=USB HUB Member=Component R25 330E
+Added Member To Class: ClassName=USB HUB Member=Component R27 100K
+Added Member To Class: ClassName=USB HUB Member=Component R29 100K
+Added Member To Class: ClassName=USB HUB Member=Component R31 12.0k    1%
+Added Member To Class: ClassName=USB HUB Member=Component R32 100K
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R33 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R34 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R36 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R38 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R40 10R
+Added Member To Class: ClassName=RS232 Member=Component R42 0E
+Added Member To Class: ClassName=RS485 Member=Component R43 10K
+Added Member To Class: ClassName=Audio Codec Member=Component R45 10K
+Added Member To Class: ClassName=Audio Codec Member=Component R46 10K
+Added Member To Class: ClassName=Sync In Member=Component R47 50E
+Added Member To Class: ClassName=Sync Out Member=Component R49 143E
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R51 0R
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R52 15K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R53 15K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R58 12K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R60 10K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R62 10K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R64 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R65 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R66 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R67 10E
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R69 12K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R71 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R73 12K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R74 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R75 10K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R77 10K
+Added Member To Class: ClassName=Level Shifting Member=Component R82 10K
+Added Member To Class: ClassName=SD CARD  Member=Component R? 0
+Added Member To Class: ClassName=Level Shifting Member=Component RA2 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA4 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA7 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA8 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA11 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA12 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA13 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA14 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA15 Film Res Pack

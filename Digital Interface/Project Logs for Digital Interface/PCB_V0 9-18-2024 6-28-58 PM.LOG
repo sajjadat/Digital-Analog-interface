@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=GND_ISO Pin=IC?-7
+Removed Pin From Net: NetName=Current_Measurement_2_in- Pin=IC?-14
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetIC20_15 Pin=RA?-3
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Display  Member=IC?
+Removed Member From Class: ClassName=Level Shifting Member=RA?
+Change component parameters: Designator = "RA1" ("RA1"); Footprint = "RP0603X4"; UniqueID = "\PHOCKPFJ" ("\PHOCKPFJ")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100E"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Added Pin To Net: NetName=GND_ISO Pin=IC13-7
+Added Pin To Net: NetName=Current_Measurement_2_in- Pin=IC13-14
+Added Pin To Net: NetName=GND_ISO Pin=IC14-7
+Added Pin To Net: NetName=Current_Measurement_2_in- Pin=IC14-14
+Added Pin To Net: NetName=GND_ISO Pin=IC15-7
+Added Pin To Net: NetName=Current_Measurement_2_in- Pin=IC15-14
+Added Pin To Net: NetName=NetIC21_5 Pin=IC21-5
+Added Pin To Net: NetName=NetIC21_6 Pin=IC21-6
+Added Pin To Net: NetName=GPO2_OUT Pin=IC22-5
+Added Pin To Net: NetName=GPO3_OUT Pin=IC22-6
+Add Pin To Net: Unknown Pin: Pin M3-1
+Added Pin To Net: NetName=NetIC19_5 Pin=RA1-6
+Added Pin To Net: NetName=NetIC19_4 Pin=RA1-7
+Added Pin To Net: NetName=NetIC19_3 Pin=RA1-8
+Added Pin To Net: NetName=NetIC25_18 Pin=RA6-1
+Added Pin To Net: NetName=NetIC20_16 Pin=RA6-2
+Added Pin To Net: NetName=NetIC20_15 Pin=RA6-3
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Change Class Name : Old Net Name=SD CARD  New Net Name=MCU Sup
+Added Class: Name=SD CARD 
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C110) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C111) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C105) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C109) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C99) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C102) Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C106) Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C108) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C103) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C101) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C104) 4.7uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C100) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C107) Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C? (C13) 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C? (C15) 10uF
+Added Member To Class: ClassName=Main Power Member=Component C? (C14) 10uF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C23) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C25) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C27) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C26) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C30) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C28) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C22) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C24) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C31) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C158) ?nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C157) ?uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C153) 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C150) 1uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C155) 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C156) =VALUE
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C154) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C152) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C160) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C159) 2.2uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C151) 4.7uF
+Added Member To Class: ClassName=Main Power Member=Component D? (D7) SS24F
+Added Member To Class: ClassName=Display  Member=Component IC13 SN74AHCT04PWR_1
+Added Member To Class: ClassName=Display  Member=Component IC14 SN74AHCT04PWR_1
+Added Member To Class: ClassName=Display  Member=Component IC15 SN74AHCT04PWR_1
+Added Member To Class: ClassName=Main Power Member=Component IC? (IC5) LD1117S18CTR
+Added Member To Class: ClassName=Power Switch Member=Component IC? (IC10) TPS2116DRLR
+Added Member To Class: ClassName=Audio Codec Member=Component JP? (JP6) JMPSOLDER
+Added Member To Class: ClassName=MCU Sup Member=Component JP? (JP7) JMPSOLDER
+Added Member To Class: ClassName=Audio Codec Member=Component R? (R46) 10K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R17) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R9) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R16) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R12) 10K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R10) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R15) 10K
+Added Member To Class: ClassName=MCU Sup Member=Component R? (R91) 10K
+Added Member To Class: ClassName=MCU Sup Member=Component R? (R90) 10K
+Added Member To Class: ClassName=MCU Sup Member=Component SW? (SW2) PUSHBUTTON

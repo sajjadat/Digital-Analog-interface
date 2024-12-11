@@ -1,0 +1,1027 @@
+Removed Pin From Net: NetName=Current_Measurement_2_in- Pin=C16-1
+Removed Pin From Net: NetName=Current_Measurement_2_in- Pin=D7-2
+Removed Pin From Net: NetName=Current_Measurement_2_in- Pin=IC4-3
+Removed Pin From Net: NetName=Power Switch Pin=IC19-23
+Removed Pin From Net: NetName=Power Switch Pin=IC19-24
+Removed Pin From Net: NetName=Power Switch Pin=IC20-23
+Removed Pin From Net: NetName=Power Switch Pin=IC20-24
+Removed Pin From Net: NetName=SCK_DISP Pin=J9-1
+Removed Pin From Net: NetName=MOSI_DISP Pin=J9-2
+Removed Pin From Net: NetName=RES_DISP Pin=J9-3
+Removed Pin From Net: NetName=Power_Switch Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Pin From Net: NetName=GND Pin=P1-10
+Removed Pin From Net: NetName=GND Pin=P1-11
+Removed Pin From Net: NetName=GND Pin=P1-12
+Removed Pin From Net: NetName=GND Pin=P1-13
+Removed Pin From Net: NetName=MOSI_SPI Pin=P1-14
+Removed Pin From Net: NetName=MISO_SPI Pin=P1-15
+Removed Pin From Net: NetName=SDA_I2C Pin=P1-16
+Removed Pin From Net: NetName=SCL_I2C Pin=P1-17
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA2-5
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA2-6
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA2-7
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA2-8
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA5-5
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA5-6
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA5-7
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=RA5-8
+Removed Member From Class: ClassName=BIT(Built in Test) Member=1
+Removed Member From Class: ClassName=Main Power Member=C2
+Removed Member From Class: ClassName=FT2232HL_IN Member=C4
+Removed Member From Class: ClassName=USB HUB Member=C14
+Removed Member From Class: ClassName=Isolators Member=C16
+Removed Member From Class: ClassName=RS485 Member=C20
+Removed Member From Class: ClassName=USB_TTL Member=C20
+Removed Member From Class: ClassName=Isolators Member=C24
+Removed Member From Class: ClassName=RS232 Member=C24
+Removed Member From Class: ClassName=FT2232HL_IN Member=C30
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C30
+Removed Member From Class: ClassName=RS485 Member=C34
+Removed Member From Class: ClassName=Isolators Member=C36
+Removed Member From Class: ClassName=RS485 Member=C38
+Removed Member From Class: ClassName=Main Power Member=C46
+Removed Member From Class: ClassName=RS485 Member=C47
+Removed Member From Class: ClassName=FT2232HL_IN Member=C48
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C48
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C50
+Removed Member From Class: ClassName=AUX Power Member=C53
+Removed Member From Class: ClassName=Main Power Member=C53
+Removed Member From Class: ClassName=MCU 1 Member=C54
+Removed Member From Class: ClassName=RS232 Member=C58
+Removed Member From Class: ClassName=USB_TTL Member=C61
+Removed Member From Class: ClassName=Isolators Member=C62
+Removed Member From Class: ClassName=RS485 Member=C64
+Removed Member From Class: ClassName=FT2232HL_IN Member=C68
+Removed Member From Class: ClassName=FT2232HL_IN Member=C69
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C69
+Removed Member From Class: ClassName=Isolators Member=C71
+Removed Member From Class: ClassName=MCU 1 Member=C71
+Removed Member From Class: ClassName=USB HUB Member=C71
+Removed Member From Class: ClassName=USB HUB Member=C72
+Removed Member From Class: ClassName=FT2232HL_IN Member=C77
+Removed Member From Class: ClassName=MCU 1 Member=C78
+Removed Member From Class: ClassName=USB HUB Member=C78
+Removed Member From Class: ClassName=FT2232HL_IN Member=C79
+Removed Member From Class: ClassName=USB_TTL Member=C80
+Removed Member From Class: ClassName=Main Power Member=C82
+Removed Member From Class: ClassName=MCU 1 Member=C82
+Removed Member From Class: ClassName=USB_TTL Member=C82
+Removed Member From Class: ClassName=USB HUB Member=C82
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C85
+Removed Member From Class: ClassName=MCU 1 Member=C85
+Removed Member From Class: ClassName=RS232 Member=C85
+Removed Member From Class: ClassName=FT2232HL_IN Member=C86
+Removed Member From Class: ClassName=Isolators Member=C87
+Removed Member From Class: ClassName=FT2232HL_IN Member=C90
+Removed Member From Class: ClassName=MCU 1 Member=C90
+Removed Member From Class: ClassName=USB HUB Member=C90
+Removed Member From Class: ClassName=FT2232HL_IN Member=C95
+Removed Member From Class: ClassName=Main Power Member=C97
+Removed Member From Class: ClassName=MCU 1 Member=C97
+Removed Member From Class: ClassName=AUX Power Member=C101
+Removed Member From Class: ClassName=Main Power Member=C101
+Removed Member From Class: ClassName=Terminals Member=C101
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C103
+Removed Member From Class: ClassName=USB HUB Member=C103
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C104
+Removed Member From Class: ClassName=Main Power Member=C104
+Removed Member From Class: ClassName=MCU 1 Member=C104
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C105
+Removed Member From Class: ClassName=MCU 1 Member=C105
+Removed Member From Class: ClassName=Power Switch Member=C105
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C110
+Removed Member From Class: ClassName=RS232 Member=C110
+Removed Member From Class: ClassName=RS485 Member=C110
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C111
+Removed Member From Class: ClassName=FT2232HL_OUT Member=C111
+Removed Member From Class: ClassName=USB HUB Member=C111
+Removed Member From Class: ClassName=BIT(Built in Test) Member=C112
+Removed Member From Class: ClassName=AUX Power Member=D7
+Removed Member From Class: ClassName=Main Power Member=D9
+Removed Member From Class: ClassName=USB HUB Member=D9
+Removed Member From Class: ClassName=FT2232HL_IN Member=FB3
+Removed Member From Class: ClassName=FT2232HL_IN Member=FB4
+Removed Member From Class: ClassName=RS485 Member=FB5
+Removed Member From Class: ClassName=Terminals Member=FB5
+Removed Member From Class: ClassName=Isolators Member=IC10
+Removed Member From Class: ClassName=Level Shifting Member=IC10
+Removed Member From Class: ClassName=Main Power Member=IC10
+Removed Member From Class: ClassName=Level Shifting Member=IC11
+Removed Member From Class: ClassName=Mode Switch Member=IC12
+Removed Member From Class: ClassName=Level Shifting Member=IC17
+Removed Member From Class: ClassName=On Board Terminals Member=J2
+Removed Member From Class: ClassName=Memory Member=J7
+Removed Member From Class: ClassName=Terminals Member=J9
+Removed Member From Class: ClassName=AUX Power Member=L2
+Removed Member From Class: ClassName=MCU 1 Member=P3
+Removed Member From Class: ClassName=BIT(Built in Test) Member=R3
+Removed Member From Class: ClassName=MCU 1 Member=R3
+Removed Member From Class: ClassName=USB HUB Member=R3
+Removed Member From Class: ClassName=BIT(Built in Test) Member=R5
+Removed Member From Class: ClassName=MCU 1 Member=R5
+Removed Member From Class: ClassName=USB HUB Member=R5
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R8
+Removed Member From Class: ClassName=Main Power Member=R12
+Removed Member From Class: ClassName=FT2232HL_IN Member=R14
+Removed Member From Class: ClassName=Sync Out Member=R14
+Removed Member From Class: ClassName=USB_TTL Member=R14
+Removed Member From Class: ClassName=FT2232HL_IN Member=R27
+Removed Member From Class: ClassName=Sync In Member=R27
+Removed Member From Class: ClassName=USB_TTL Member=R27
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R29
+Removed Member From Class: ClassName=Power Switch Member=R33
+Removed Member From Class: ClassName=AUX Power Member=R35
+Removed Member From Class: ClassName=Main Power Member=R35
+Removed Member From Class: ClassName=USB_TTL Member=R37
+Removed Member From Class: ClassName=FT2232HL_IN Member=R38
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R38
+Removed Member From Class: ClassName=Level Shifting Member=R38
+Removed Member From Class: ClassName=RS232 Member=R38
+Removed Member From Class: ClassName=FT2232HL_IN Member=R39
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R39
+Removed Member From Class: ClassName=Level Shifting Member=R39
+Removed Member From Class: ClassName=RS485 Member=R39
+Removed Member From Class: ClassName=FT2232HL_IN Member=R42
+Removed Member From Class: ClassName=Level Shifting Member=R45
+Removed Member From Class: ClassName=FT2232HL_IN Member=R52
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R53
+Removed Member From Class: ClassName=Power Switch Member=R53
+Removed Member From Class: ClassName=USB_TTL Member=R54
+Removed Member From Class: ClassName=RS485 Member=R55
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R59
+Removed Member From Class: ClassName=Level Shifting Member=R60
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R61
+Removed Member From Class: ClassName=RS232 Member=R61
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R65
+Removed Member From Class: ClassName=FT2232HL_OUT Member=R67
+Removed Member From Class: ClassName=Sync Out Member=R67
+Removed Member From Class: ClassName=MCU 1 Member=SW1
+Removed Member From Class: ClassName=Main Power Member=U3
+Removed Member From Class: ClassName=MCU GPIO Member=U4
+Removed Member From Class: ClassName=FT2232HL_IN Member=U11
+Removed Member From Class: ClassName=Sync In Member=U11
+Removed Member From Class: ClassName=USB_TTL Member=U11
+Removed Member From Class: ClassName=FT2232HL_IN Member=U13
+Removed Member From Class: ClassName=Sync Out Member=U13
+Removed Member From Class: ClassName=FT2232HL_OUT Member=U14
+Removed Member From Class: ClassName=Sync Out Member=U14
+Removed Member From Class: ClassName=FT2232HL_OUT Member=U15
+Removed Member From Class: ClassName=Sync Out Member=U15
+Removed Member From Class: ClassName=FT2232HL_IN Member=X3
+Removed Member From Class: ClassName=MCU 1 Member=X3
+Removed Member From Class: ClassName=USB HUB Member=X3
+Change Component Footprint: Designator=IC4 Old Footprint=SOT95P237X112-3N New Footprint=SOT230P700X180-4N
+Change Component Comment : Designator=C15 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=C16 Old Comment=0.1uF New Comment=10uF
+Change Component Comment : Designator=IC4 Old Comment=MCP1700T-3302E_TT_1 New Comment=LD1117S18CTR
+Change component parameters: Designator = "1" ("1"); Footprint = "RP0603X4"; UniqueID = "\AZDMQRDB" ("\AZDMQRDB")
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C_TN_3528"; UniqueID = "\VKBLATJX" ("\VKBLATJX")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "-V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C_TN_3528"; UniqueID = "\OLXNRUTC" ("\OLXNRUTC")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "-V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "SOT95P237X112-3N"; UniqueID = "\ZPHVVYYX" ("\ZPHVVYYX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LD1117S18CTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ld1117s18ctr/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LD1117S18CTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-LD1117S18CTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD1117S18CTR?qs=qolwYojYp3Sa3BPkKnJupg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RA2" ("RA2"); Footprint = "RP0603X4"; UniqueID = "\XNFNBSQP" ("\XNFNBSQP")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RA5" ("RA5"); Footprint = "RP0603X4"; UniqueID = "\YLKWNDOR" ("\YLKWNDOR")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RA8" ("RA8"); Footprint = "RP0603X4"; UniqueID = "\TYDDNTNX" ("\TYDDNTNX")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RA11" ("RA11"); Footprint = "RP0603X4"; UniqueID = "\SOITCKFH" ("\SOITCKFH")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RA12" ("RA12"); Footprint = "RP0603X4"; UniqueID = "\LOUAQNBE" ("\LOUAQNBE")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=C114(Cap_A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nf"; VariantName = "[No Variations]"
+Added Component: Designator=C115(Cap_A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nf"; VariantName = "[No Variations]"
+Added Component: Designator=C116(C0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "C0G, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 1.4$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "30PF"; VariantName = "[No Variations]"
+Added Component: Designator=C117(C0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "C0G, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 1.4$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "30PF"; VariantName = "[No Variations]"
+Added Component: Designator=C118(C0805)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "UMK212ABJ225KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X5R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 10$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C119(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D13(LED0603RED)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "30mA, 640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1.8~2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LED603RED"; VariantName = "[No Variations]"
+Added Component: Designator=D14(LED0603RED)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "30mA, 640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1.8~2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LED603RED"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found QFN40P500X500X90-41N-D
+Added Component: Designator=IC23(TPS2121RUXR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS2121RUXR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "null?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/TPS2121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS2121RUXR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS2121RUXR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2121RUXR?qs=qSfuJ%252Bfl%2Fd7dCYiVnUfngQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC24(SOTFL50P160X60-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS2116DRLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps2116drlr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/tps2116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS2116DRLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS2116DRLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2116DRLR?qs=aP1CjGhiNiGo3XAyXcVPaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC25(SOP64P600X175-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74lvc8t245dbqr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74lvc8t245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC8T245DBQR?qs=dT9u2OTAaVXsrjZUGB3%252Bbw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J10(FPC50_40)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Smart World"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.smartw.ir/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Telegram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://t.me/altium_smartw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Instagram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://Instagram.com/smartgw.ir"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Added Component: Designator=R72(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R73(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R74(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R75(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "50E"; VariantName = "[No Variations]"
+Added Component: Designator=R76(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R77(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "330E"; VariantName = "[No Variations]"
+Added Component: Designator=R78(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "15K"; VariantName = "[No Variations]"
+Added Component: Designator=R79(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "15K"; VariantName = "[No Variations]"
+Added Component: Designator=R80(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R81(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "330E"; VariantName = "[No Variations]"
+Added Component: Designator=R82(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RA15(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100E"; VariantName = "[No Variations]"
+Added Component: Designator=RA16(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100E"; VariantName = "[No Variations]"
+Added Component: Designator=X5(XTL_2_11X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "ABLS-8.000MHZ-B4-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "8MHz, 18pF, 30PPM, -20~70oC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "XTL_12MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C116-2
+Added Pin To Net: NetName=GND Pin=C117-2
+Added Pin To Net: NetName=VCAP Pin=C118-1
+Added Pin To Net: NetName=GND Pin=C118-2
+Added Pin To Net: NetName=VCAP Pin=C119-1
+Added Pin To Net: NetName=GND Pin=C119-2
+Add Pin To Net: Unknown Pin: Pin IC7-1
+Add Pin To Net: Unknown Pin: Pin IC7-2
+Add Pin To Net: Unknown Pin: Pin IC7-3
+Add Pin To Net: Unknown Pin: Pin IC7-4
+Add Pin To Net: Unknown Pin: Pin IC7-5
+Add Pin To Net: Unknown Pin: Pin IC7-6
+Add Pin To Net: Unknown Pin: Pin IC7-7
+Add Pin To Net: Unknown Pin: Pin IC7-8
+Add Pin To Net: Unknown Pin: Pin IC7-9
+Add Pin To Net: Unknown Pin: Pin IC7-10
+Add Pin To Net: Unknown Pin: Pin IC7-11
+Add Pin To Net: Unknown Pin: Pin IC7-12
+Add Pin To Net: Unknown Pin: Pin IC7-13
+Add Pin To Net: Unknown Pin: Pin IC7-14
+Add Pin To Net: Unknown Pin: Pin IC8-1
+Add Pin To Net: Unknown Pin: Pin IC8-2
+Add Pin To Net: Unknown Pin: Pin IC8-3
+Add Pin To Net: Unknown Pin: Pin IC8-4
+Add Pin To Net: Unknown Pin: Pin IC8-5
+Add Pin To Net: Unknown Pin: Pin IC8-6
+Add Pin To Net: Unknown Pin: Pin IC8-7
+Add Pin To Net: Unknown Pin: Pin IC8-8
+Add Pin To Net: Unknown Pin: Pin IC8-9
+Add Pin To Net: Unknown Pin: Pin IC8-10
+Add Pin To Net: Unknown Pin: Pin IC8-11
+Add Pin To Net: Unknown Pin: Pin IC8-12
+Add Pin To Net: Unknown Pin: Pin IC8-13
+Add Pin To Net: Unknown Pin: Pin IC8-14
+Add Pin To Net: Unknown Pin: Pin IC9-1
+Add Pin To Net: Unknown Pin: Pin IC9-2
+Add Pin To Net: Unknown Pin: Pin IC9-3
+Add Pin To Net: Unknown Pin: Pin IC9-4
+Add Pin To Net: Unknown Pin: Pin IC9-5
+Add Pin To Net: Unknown Pin: Pin IC9-6
+Add Pin To Net: Unknown Pin: Pin IC9-7
+Add Pin To Net: Unknown Pin: Pin IC9-8
+Add Pin To Net: Unknown Pin: Pin IC9-9
+Add Pin To Net: Unknown Pin: Pin IC9-14
+Added Pin To Net: NetName=GND Pin=IC10-7
+Added Pin To Net: NetName=GND Pin=IC11-7
+Added Pin To Net: NetName=Power_Switch Pin=IC19-23
+Added Pin To Net: NetName=Power_Switch Pin=IC19-24
+Added Pin To Net: NetName=TCK_JTAG_2 Pin=IC20-8
+Added Pin To Net: NetName=TDO_JTAG_MCU Pin=IC20-9
+Added Pin To Net: NetName=Power_Switch Pin=IC20-23
+Added Pin To Net: NetName=Power_Switch Pin=IC20-24
+Added Pin To Net: NetName=Current_Measurement_3_in+ Pin=IC25-1
+Added Pin To Net: NetName=GND Pin=IC25-11
+Added Pin To Net: NetName=GND Pin=IC25-12
+Added Pin To Net: NetName=GND Pin=IC25-13
+Added Pin To Net: NetName=Power_Switch Pin=IC25-23
+Added Pin To Net: NetName=Power_Switch Pin=IC25-24
+Added Pin To Net: NetName=SYNC_OUT Pin=J1-1
+Added Pin To Net: NetName=MOSI_DISP Pin=J9-1
+Added Pin To Net: NetName=RES_DISP Pin=J9-2
+Added Pin To Net: NetName=SCK_DISP Pin=J9-3
+Add Pin To Net: Unknown Pin: Pin M3-1
+Added Pin To Net: NetName=MOSI_SPI Pin=P1-2
+Added Pin To Net: NetName=MISO_SPI Pin=P1-3
+Added Pin To Net: NetName=SDA_I2C Pin=P1-4
+Added Pin To Net: NetName=SCL_I2C Pin=P1-5
+Added Pin To Net: NetName=GPO_MCU_Buffer_1 Pin=P1-6
+Added Pin To Net: NetName=GPO_MCU_Buffer_2 Pin=P1-7
+Added Pin To Net: NetName=GPO_MCU_Buffer_3 Pin=P1-8
+Added Pin To Net: NetName=GPO_MCU_Buffer_4 Pin=P1-9
+Added Pin To Net: NetName=GPO_MCU_Buffer_5 Pin=P1-10
+Added Pin To Net: NetName=GPO_MCU_Buffer_6 Pin=P1-11
+Added Pin To Net: NetName=GPO_MCU_Buffer_7 Pin=P1-12
+Added Pin To Net: NetName=GPO_MCU_Buffer_8 Pin=P1-13
+Added Pin To Net: NetName=Power_Switch Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=GND Pin=P1-17
+Added Pin To Net: NetName=GND Pin=P1-18
+Added Pin To Net: NetName=GND Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=GND Pin=P1-21
+Added Pin To Net: NetName=GND Pin=P1-22
+Added Pin To Net: NetName=GND Pin=P1-23
+Added Pin To Net: NetName=GND Pin=P1-24
+Added Pin To Net: NetName=GND Pin=P1-25
+Added Pin To Net: NetName=GND Pin=R75-2
+Added Pin To Net: NetName=FT2232_West_3V3 Pin=R76-1
+Added Pin To Net: NetName=FT2232_West_3V3 Pin=R77-1
+Added Pin To Net: NetName=FT2232_East_3V3 Pin=R78-1
+Added Pin To Net: NetName=FT2232_East_3V3 Pin=R79-1
+Added Pin To Net: NetName=FT2232_East_3V3 Pin=R80-1
+Added Pin To Net: NetName=FT2232_East_3V3 Pin=R81-1
+Added Pin To Net: NetName=Current_Measurement_3_in+ Pin=R82-1
+Added Pin To Net: NetName=TDO_JTAG_EXT Pin=RA1-4
+Added Pin To Net: NetName=Power Switch Pin=RA2-5
+Added Pin To Net: NetName=Power Switch Pin=RA2-6
+Added Pin To Net: NetName=Power Switch Pin=RA2-7
+Added Pin To Net: NetName=Power Switch Pin=RA2-8
+Added Pin To Net: NetName=Power Switch Pin=RA5-5
+Added Pin To Net: NetName=Power Switch Pin=RA5-6
+Added Pin To Net: NetName=Power Switch Pin=RA5-7
+Added Pin To Net: NetName=Power Switch Pin=RA5-8
+Added Pin To Net: NetName=TCK_JTAG_2 Pin=U3-76
+Added Pin To Net: NetName=TDI_JTAG_2 Pin=U3-77
+Added Pin To Net: NetName=TDO_JTAG_MCU Pin=U3-89
+Added Pin To Net: NetName=Current_Measurement_1_in- Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=Current_Measurement_1_in- Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=Current_Measurement_1_in- Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=Current_Measurement_1_in- Pin=U8-5
+Added Pin To Net: NetName=50_OHM_CN Pin=IC18-9
+Added Pin To Net: NetName=50_OHM_CN Pin=R75-1
+Added Net: Name=50_OHM_CN
+Added Pin To Net: NetName=50_OHM Pin=IC18-8
+Added Pin To Net: NetName=50_OHM Pin=J2-1
+Added Pin To Net: NetName=50_OHM Pin=U7-2
+Added Net: Name=50_OHM
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT IN Pin=D13-2
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT IN Pin=IC19-22
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT IN Pin=IC20-22
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT IN Pin=IC25-22
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT IN Pin=R76-2
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT IN Pin=U12-60
+Added Net: Name=\P\O\W\E\R\E\N\ _FT IN
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT OUT Pin=D14-2
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT OUT Pin=R80-2
+Added Pin To Net: NetName=\P\O\W\E\R\E\N\ _FT OUT Pin=U14-60
+Added Net: Name=\P\O\W\E\R\E\N\ _FT OUT
+Added Pin To Net: NetName=AGND Pin=J1-2
+Added Pin To Net: NetName=AGND Pin=J1-3
+Added Pin To Net: NetName=AGND Pin=J1-4
+Added Pin To Net: NetName=AGND Pin=J1-5
+Added Pin To Net: NetName=AGND Pin=J2-2
+Added Pin To Net: NetName=AGND Pin=J2-3
+Added Pin To Net: NetName=AGND Pin=J2-4
+Added Pin To Net: NetName=AGND Pin=J2-5
+Added Pin To Net: NetName=AGND Pin=J3-2
+Added Pin To Net: NetName=AGND Pin=J3-3
+Added Pin To Net: NetName=AGND Pin=J3-4
+Added Pin To Net: NetName=AGND Pin=J3-5
+Added Pin To Net: NetName=AGND Pin=J4-2
+Added Pin To Net: NetName=AGND Pin=J4-3
+Added Pin To Net: NetName=AGND Pin=J4-4
+Added Pin To Net: NetName=AGND Pin=J4-5
+Added Pin To Net: NetName=AGND Pin=J5-2
+Added Pin To Net: NetName=AGND Pin=J5-3
+Added Pin To Net: NetName=AGND Pin=J5-4
+Added Pin To Net: NetName=AGND Pin=J5-5
+Added Pin To Net: NetName=AGND Pin=J6-2
+Added Pin To Net: NetName=AGND Pin=J6-3
+Added Pin To Net: NetName=AGND Pin=J6-4
+Added Pin To Net: NetName=AGND Pin=J6-5
+Added Net: Name=AGND
+Added Pin To Net: NetName=BD3(CS_SPI , TMS_JTAG) Pin=IC11-9
+Added Pin To Net: NetName=BD3(CS_SPI , TMS_JTAG) Pin=IC11-11
+Added Pin To Net: NetName=BD3(CS_SPI , TMS_JTAG) Pin=R56-2
+Added Pin To Net: NetName=BD3(CS_SPI , TMS_JTAG) Pin=U14-41
+Added Net: Name=BD3(CS_SPI , TMS_JTAG)
+Added Pin To Net: NetName=CS_SPI_1 Pin=IC11-8
+Added Pin To Net: NetName=CS_SPI_1 Pin=IC20-7
+Added Net: Name=CS_SPI_1
+Added Pin To Net: NetName=CS_SPI Pin=P1-1
+Added Pin To Net: NetName=CS_SPI Pin=RA6-8
+Added Net: Name=CS_SPI
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=D7-2
+Added Pin To Net: NetName=NetC16_1 Pin=IC4-3
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC116_1 Pin=C116-1
+Added Pin To Net: NetName=NetC116_1 Pin=U16-27
+Added Pin To Net: NetName=NetC116_1 Pin=X5-2
+Added Net: Name=NetC116_1
+Added Pin To Net: NetName=NetC117_1 Pin=C117-1
+Added Pin To Net: NetName=NetC117_1 Pin=U16-28
+Added Pin To Net: NetName=NetC117_1 Pin=X5-1
+Added Net: Name=NetC117_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R77-2
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R81-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetIC25_2 Pin=IC25-2
+Added Pin To Net: NetName=NetIC25_2 Pin=R82-2
+Added Net: Name=NetIC25_2
+Added Pin To Net: NetName=NetIC25_14 Pin=IC25-14
+Added Pin To Net: NetName=NetIC25_14 Pin=RA16-1
+Added Net: Name=NetIC25_14
+Added Pin To Net: NetName=NetIC25_15 Pin=IC25-15
+Added Pin To Net: NetName=NetIC25_15 Pin=RA16-4
+Added Net: Name=NetIC25_15
+Added Pin To Net: NetName=NetIC25_16 Pin=IC25-16
+Added Pin To Net: NetName=NetIC25_16 Pin=RA16-3
+Added Net: Name=NetIC25_16
+Added Pin To Net: NetName=NetIC25_17 Pin=IC25-17
+Added Pin To Net: NetName=NetIC25_17 Pin=RA16-2
+Added Net: Name=NetIC25_17
+Added Pin To Net: NetName=NetIC25_18 Pin=IC25-18
+Added Pin To Net: NetName=NetIC25_18 Pin=RA15-1
+Added Net: Name=NetIC25_18
+Added Pin To Net: NetName=NetIC25_19 Pin=IC25-19
+Added Pin To Net: NetName=NetIC25_19 Pin=RA15-4
+Added Net: Name=NetIC25_19
+Added Pin To Net: NetName=NetIC25_20 Pin=IC25-20
+Added Pin To Net: NetName=NetIC25_20 Pin=RA15-3
+Added Net: Name=NetIC25_20
+Added Pin To Net: NetName=NetIC25_21 Pin=IC25-21
+Added Pin To Net: NetName=NetIC25_21 Pin=RA15-2
+Added Net: Name=NetIC25_21
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=U7-4
+Added Pin To Net: NetName=NetU6_2 Pin=U8-2
+Added Net: Name=NetU6_2
+Added Pin To Net: NetName=R\E\S\E\T\_FT Pin=IC25-4
+Added Pin To Net: NetName=R\E\S\E\T\_FT Pin=R78-2
+Added Pin To Net: NetName=R\E\S\E\T\_FT Pin=U14-44
+Added Net: Name=R\E\S\E\T\_FT
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=J9-13
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=RA15-6
+Added Net: Name=R\E\S\E\T\
+Added Pin To Net: NetName=SYNC_IN(ETR_TIM1) Pin=U3-37
+Added Pin To Net: NetName=SYNC_IN(ETR_TIM1) Pin=U6-4
+Added Net: Name=SYNC_IN(ETR_TIM1)
+Added Pin To Net: NetName=SYNC_IN(TIM1_CH2) Pin=U3-41
+Added Pin To Net: NetName=SYNC_IN(TIM1_CH2) Pin=U8-4
+Added Net: Name=SYNC_IN(TIM1_CH2)
+Added Pin To Net: NetName=T\R\S\T\_MCU Pin=IC25-3
+Added Pin To Net: NetName=T\R\S\T\_MCU Pin=R79-2
+Added Pin To Net: NetName=T\R\S\T\_MCU Pin=U3-90
+Added Pin To Net: NetName=T\R\S\T\_MCU Pin=U14-43
+Added Net: Name=T\R\S\T\_MCU
+Added Pin To Net: NetName=T\R\S\T\ Pin=J9-12
+Added Pin To Net: NetName=T\R\S\T\ Pin=RA15-7
+Added Net: Name=T\R\S\T\
+Added Pin To Net: NetName=TCK_JTAG Pin=J9-11
+Added Pin To Net: NetName=TCK_JTAG Pin=RA6-7
+Added Net: Name=TCK_JTAG
+Added Pin To Net: NetName=TDI_JTAG Pin=J9-8
+Added Pin To Net: NetName=TDI_JTAG Pin=RA6-6
+Added Net: Name=TDI_JTAG
+Added Pin To Net: NetName=TDO_JTAG Pin=IC19-18
+Added Pin To Net: NetName=TDO_JTAG Pin=J9-9
+Added Pin To Net: NetName=TDO_JTAG Pin=RA2-4
+Added Net: Name=TDO_JTAG
+Added Pin To Net: NetName=TMS_JTAG_MCU Pin=IC11-10
+Added Pin To Net: NetName=TMS_JTAG_MCU Pin=IC20-10
+Added Pin To Net: NetName=TMS_JTAG_MCU Pin=U3-72
+Added Net: Name=TMS_JTAG_MCU
+Added Pin To Net: NetName=TMS_JTAG Pin=J9-10
+Added Pin To Net: NetName=TMS_JTAG Pin=RA6-5
+Added Net: Name=TMS_JTAG
+Change Class Name : Old Net Name=FT2232HL_IN New Net Name=FT2232HL_OUT
+Change Class Name : Old Net Name=FT2232HL_OUT New Net Name=FT2232HL_IN
+Added Class: Name=Display 
+Added Member To Class: ClassName=AUX Power Member=Component C1 1uF
+Added Member To Class: ClassName=AUX Power Member=Component C3 Capacitor C SMD 1206
+Added Member To Class: ClassName=Terminals Member=Component C4 10nF
+Added Member To Class: ClassName=Main Power Member=Component C5 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C6 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C7 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C8 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C9 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C10 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C11 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C12 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C13 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C14 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C15 10uF
+Added Member To Class: ClassName=Main Power Member=Component C16 10uF
+Added Member To Class: ClassName=Power Switch Member=Component C17 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C18 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C19 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C20 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C21 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C22 1uF
+Added Member To Class: ClassName=MCU 1 Member=Component C23 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C24 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C25 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C26 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C27 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C28 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C29 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C30 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C31 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C33 ?uF
+Added Member To Class: ClassName=MCU 1 Member=Component C34 ?nF
+Added Member To Class: ClassName=MCU 1 Member=Component C35 2.2uF
+Added Member To Class: ClassName=MCU 1 Member=Component C36 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C37 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C38 30PF
+Added Member To Class: ClassName=USB HUB Member=Component C39 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C40 30PF
+Added Member To Class: ClassName=USB HUB Member=Component C41 0.1uF
+Added Member To Class: ClassName=USB HUB Member=Component C42 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C43 1.0uF-16V
+Added Member To Class: ClassName=USB HUB Member=Component C44 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C45 1.0uF-16V
+Added Member To Class: ClassName=USB HUB Member=Component C46 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C47 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C48 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C49 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C51 1.0uF-16V
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C52 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C53 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C54 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C55 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C56 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C57 100nF
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component C59 100nF
+Added Member To Class: ClassName=RS232 Member=Component C60 0.1uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C61 0.1uF-10V
+Added Member To Class: ClassName=RS232 Member=Component C62 0.1uF-10V
+Added Member To Class: ClassName=RS232 Member=Component C63 0.1uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C65 0.1uF-16V
+Added Member To Class: ClassName=RS485 Member=Component C66 100nF
+Added Member To Class: ClassName=RS485 Member=Component C67 10nF
+Added Member To Class: ClassName=RS485 Member=Component C68 100nF
+Added Member To Class: ClassName=RS485 Member=Component C69 10nF
+Added Member To Class: ClassName=RS485 Member=Component C70 100nF
+Added Member To Class: ClassName=RS485 Member=Component C71 10uF
+Added Member To Class: ClassName=RS485 Member=Component C72 100nF
+Added Member To Class: ClassName=RS485 Member=Component C73 10uF
+Added Member To Class: ClassName=Isolators Member=Component C74 100nF
+Added Member To Class: ClassName=Isolators Member=Component C75 100nF
+Added Member To Class: ClassName=Isolators Member=Component C76 100nF
+Added Member To Class: ClassName=Isolators Member=Component C78 100nF
+Added Member To Class: ClassName=Isolators Member=Component C79 100nF
+Added Member To Class: ClassName=Isolators Member=Component C80 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C82 4.7uF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C83 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C84 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C85 4.7uF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C86 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C87 30PF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C88 4.7uF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C89 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C92 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C93 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C94 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C96 100nF
+Added Member To Class: ClassName=FT2232HL_IN Member=Component C97 100nF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C98 4.7uF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C101 30PF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C102 30PF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C103 100nF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C106 100nF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C107 100nF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C108 100nF
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component C109 100nF
+Added Member To Class: ClassName=USB_TTL Member=Component C110 100nF
+Added Member To Class: ClassName=USB_TTL Member=Component C111 100nF
+Added Member To Class: ClassName=USB_TTL Member=Component C112 4.7uF
+Added Member To Class: ClassName=USB_TTL Member=Component C113 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C114 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Power Switch Member=Component C115 Capacitor Tantalum SMD
+Added Member To Class: ClassName=USB_TTL Member=Component C116 30PF
+Added Member To Class: ClassName=USB_TTL Member=Component C117 30PF
+Added Member To Class: ClassName=MCU 1 Member=Component C118 2.2uF
+Added Member To Class: ClassName=MCU 1 Member=Component C119 100nF
+Added Member To Class: ClassName=AUX Power Member=Component D1 LED603RED
+Added Member To Class: ClassName=Main Power Member=Component D2 SS510B
+Added Member To Class: ClassName=Main Power Member=Component D3 SS510B
+Added Member To Class: ClassName=Main Power Member=Component D4 SS24F
+Added Member To Class: ClassName=Main Power Member=Component D5 SS24F
+Added Member To Class: ClassName=Main Power Member=Component D6 SS24F
+Added Member To Class: ClassName=USB HUB Member=Component D8 LED603RED
+Added Member To Class: ClassName=FT2232HL_IN Member=Component D10 TVS603
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component D12 TVS603
+Added Member To Class: ClassName=FT2232HL_IN Member=Component D13 LED603RED
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component D14 LED603RED
+Added Member To Class: ClassName=Terminals Member=Component FB1 600R / 0.5A
+Added Member To Class: ClassName=RS485 Member=Component FB3 600R / 0.5A
+Added Member To Class: ClassName=FT2232HL_IN Member=Component FB4 600R / 0.5A
+Added Member To Class: ClassName=FT2232HL_IN Member=Component FB5 600R / 0.5A
+Added Member To Class: ClassName=Main Power Member=Component IC1 LF33CDT
+Added Member To Class: ClassName=Main Power Member=Component IC3 MCP1700T-3302E_TT_1
+Added Member To Class: ClassName=Main Power Member=Component IC4 LD1117S18CTR
+Added Member To Class: ClassName=USB HUB Member=Component IC5 USB2514B-AEZG
+Added Member To Class: ClassName=RS485 Member=Component IC6 ADM2587EBRWZ
+Added Member To Class: ClassName=Buffers Member=Component IC11 SN74LVC07AD
+Added Member To Class: ClassName=Isolators Member=Component IC12 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC14 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC15 ADUM1400BRWZ-RL
+Add Class Member: Failed to add class member : Component IC16 ALC5651-CGT
+Added Member To Class: ClassName=Mode Switch Member=Component IC17 TMUX1134PWR
+Added Member To Class: ClassName=Mode Switch Member=Component IC18 TMUX1134PWR
+Added Member To Class: ClassName=Level Shifting Member=Component IC19 SN74LVC8T245DBQR
+Added Member To Class: ClassName=Level Shifting Member=Component IC20 SN74LVC8T245DBQR
+Added Member To Class: ClassName=Level Shifting Member=Component IC21 SN74LVC8T245DBQR
+Added Member To Class: ClassName=Level Shifting Member=Component IC22 SN74LVC8T245DBQR
+Added Member To Class: ClassName=Power Switch Member=Component IC23 TPS2121RUXR
+Added Member To Class: ClassName=Power Switch Member=Component IC24 TPS2116DRLR
+Added Member To Class: ClassName=Level Shifting Member=Component IC25 SN74LVC8T245DBQR
+Added Member To Class: ClassName=Terminals Member=Component J1 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J3 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J4 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J5 Right Angel SMA
+Added Member To Class: ClassName=Memory Member=Component J8 ST-TF-003A
+Added Member To Class: ClassName=On Board Terminals Member=Component J9 FPC50 40
+Added Member To Class: ClassName=On Board Terminals Member=Component J10 FPC50 40
+Added Member To Class: ClassName=AUX Power Member=Component L1 Inductor SMD NC 1812
+Added Member To Class: ClassName=screw and Hole Member=Component M1 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component M4 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component M6 DNP/MH
+Added Member To Class: ClassName=Terminals Member=Component P1 DSUB_25RF
+Added Member To Class: ClassName=Terminals Member=Component P2 DSUB_25RF
+Added Member To Class: ClassName=Terminals Member=Component P5 DSUB_9RF
+Added Member To Class: ClassName=MCU 1 Member=Component P6 Header 3
+Added Member To Class: ClassName=USB_TTL Member=Component P7 Header 3
+Added Member To Class: ClassName=AUX Power Member=Component R1 1K
+Added Member To Class: ClassName=Main Power Member=Component R2 30m
+Added Member To Class: ClassName=Main Power Member=Component R3 30m
+Added Member To Class: ClassName=Main Power Member=Component R4 30m
+Added Member To Class: ClassName=Main Power Member=Component R5 30m
+Added Member To Class: ClassName=Power Switch Member=Component R6 10K
+Added Member To Class: ClassName=Power Switch Member=Component R7 10E
+Added Member To Class: ClassName=MCU 1 Member=Component R8 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R9 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R10 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R11 1M
+Added Member To Class: ClassName=MCU 1 Member=Component R12 10k
+Added Member To Class: ClassName=MCU 1 Member=Component R13 10k
+Added Member To Class: ClassName=USB HUB Member=Component R14 0R
+Added Member To Class: ClassName=USB HUB Member=Component R15 1M
+Added Member To Class: ClassName=USB HUB Member=Component R16 100K
+Added Member To Class: ClassName=USB HUB Member=Component R17 330E
+Added Member To Class: ClassName=USB HUB Member=Component R18 100K
+Added Member To Class: ClassName=USB HUB Member=Component R19 100K
+Added Member To Class: ClassName=USB HUB Member=Component R20 100K
+Added Member To Class: ClassName=USB HUB Member=Component R21 100K
+Added Member To Class: ClassName=USB HUB Member=Component R22 100K
+Added Member To Class: ClassName=USB HUB Member=Component R23 12.0k    1%
+Added Member To Class: ClassName=USB HUB Member=Component R24 100K
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R25 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R26 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R27 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R28 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R29 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R30 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R31 10R
+Added Member To Class: ClassName=BIT(Built in Test) Member=Component R32 10R
+Added Member To Class: ClassName=RS232 Member=Component R34 0E
+Added Member To Class: ClassName=RS232 Member=Component R35 0E
+Added Member To Class: ClassName=RS485 Member=Component R36 0R
+Added Member To Class: ClassName=RS485 Member=Component R37 10K
+Added Member To Class: ClassName=Power Switch Member=Component R39 10K
+Added Member To Class: ClassName=Sync Out Member=Component R40 143E
+Added Member To Class: ClassName=Sync Out Member=Component R41 143E
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R43 0R
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R44 15K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R45 15K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R46 10E
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R47 10E
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R48 12K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R49 12K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R50 12K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R51 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R53 0R
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R54 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R56 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R57 10E
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R58 10E
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R60 12K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R62 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R63 10K
+Added Member To Class: ClassName=USB_TTL Member=Component R64 0R
+Added Member To Class: ClassName=USB_TTL Member=Component R65 10K
+Added Member To Class: ClassName=USB_TTL Member=Component R66 10K
+Added Member To Class: ClassName=USB_TTL Member=Component R67 10K
+Added Member To Class: ClassName=Level Shifting Member=Component R68 10K
+Added Member To Class: ClassName=Level Shifting Member=Component R69 10K
+Added Member To Class: ClassName=Level Shifting Member=Component R70 10K
+Added Member To Class: ClassName=Level Shifting Member=Component R71 10K
+Added Member To Class: ClassName=Power Switch Member=Component R72 10K
+Added Member To Class: ClassName=Power Switch Member=Component R73 10K
+Added Member To Class: ClassName=Power Switch Member=Component R74 10K
+Added Member To Class: ClassName=Sync In Member=Component R75 50E
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R76 10K
+Added Member To Class: ClassName=FT2232HL_IN Member=Component R77 330E
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R78 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R79 15K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R80 10K
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component R81 330E
+Added Member To Class: ClassName=Level Shifting Member=Component R82 10K
+Added Member To Class: ClassName=Level Shifting Member=Component RA1 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA2 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA3 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA4 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA5 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA8 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA15 Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA16 Film Res Pack
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW1 SCREW
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW3 SCREW
+Added Member To Class: ClassName=MCU 1 Member=Component SW2 PUSHBUTTON
+Added Member To Class: ClassName=Test Points Member=Component TP1 TESTPOINT_PROBE
+Added Member To Class: ClassName=Test Points Member=Component TP3 TESTPOINT_PROBE
+Added Member To Class: ClassName=Main Power Member=Component U1 MJWI10-24S05
+Added Member To Class: ClassName=MCU GPIO Member=Component U5 TXB0108
+Added Member To Class: ClassName=Sync In Member=Component U6 741G04
+Added Member To Class: ClassName=Sync Out Member=Component U9 741G04
+Added Member To Class: ClassName=Sync Out Member=Component U10 741G04
+Added Member To Class: ClassName=Sync Out Member=Component U11 741G04
+Added Member To Class: ClassName=FT2232HL_IN Member=Component U12 FT2232HL
+Added Member To Class: ClassName=FT2232HL_IN Member=Component U13 CAT93C46
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component U14 FT2232HL
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component U15 CAT93C46
+Added Member To Class: ClassName=USB_TTL Member=Component U16 FT232RL
+Added Member To Class: ClassName=MCU 1 Member=Component X1 XTL_32.768KHz
+Added Member To Class: ClassName=USB HUB Member=Component X2 XTL_24MHz
+Added Member To Class: ClassName=FT2232HL_OUT Member=Component X4 XTL_12MHz
+Added Member To Class: ClassName=USB_TTL Member=Component X5 XTL_12MHz

@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Terminals Member=J4
+Removed Member From Class: ClassName=Terminals Member=J11
+Added Component: Designator=J1(SMA_RA)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "50Ohm, 20GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "6.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "Right Angel SMA"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SMA_RA)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "50Ohm, 20GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "6.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "Right Angel SMA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Terminals Member=Component J1 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J2 Right Angel SMA

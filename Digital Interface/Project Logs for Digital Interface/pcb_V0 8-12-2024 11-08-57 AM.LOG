@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=GPO1_OUT Pin=IC6-2
+Removed Pin From Net: NetName=GPO2_OUT Pin=IC6-3
+Removed Pin From Net: NetName=GPO3_OUT Pin=IC6-4
+Removed Pin From Net: NetName=GND_ISO Pin=IC6-7
+Removed Pin From Net: NetName=GPO3_OUT Pin=IC7-12
+Removed Pin From Net: NetName=GPO2_OUT Pin=IC7-13
+Removed Pin From Net: NetName=GPO1_OUT Pin=IC7-14
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=IC9-1
+Removed Pin From Net: NetName=GND Pin=IC9-2
+Removed Pin From Net: NetName=GND Pin=IC9-8
+Removed Pin From Net: NetName=GND_ISO Pin=IC9-9
+Removed Pin From Net: NetName=GND_ISO Pin=IC9-15
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=IC9-16
+Removed Pin From Net: NetName=Current_Measurement_3_in+ Pin=IC10-1
+Removed Pin From Net: NetName=GND Pin=IC10-2
+Removed Pin From Net: NetName=GPI5_IN Pin=IC10-3
+Removed Pin From Net: NetName=GPI6_IN Pin=IC10-4
+Removed Pin From Net: NetName=GPI7_IN Pin=IC10-5
+Removed Pin From Net: NetName=GPI8_IN Pin=IC10-6
+Removed Pin From Net: NetName=GND Pin=IC10-8
+Removed Pin From Net: NetName=GND_ISO Pin=IC10-9
+Removed Pin From Net: NetName=GND_ISO Pin=IC10-15
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=IC10-16
+Removed Pin From Net: NetName=GPI1_OUT Pin=P1-2
+Removed Pin From Net: NetName=GPI2_OUT Pin=P1-3
+Removed Pin From Net: NetName=GPI3_OUT Pin=P1-4
+Removed Pin From Net: NetName=GPI4_OUT Pin=P1-5
+Removed Pin From Net: NetName=GPO1_OUT Pin=P2-2
+Removed Pin From Net: NetName=GPO2_OUT Pin=P2-3
+Removed Pin From Net: NetName=GPO3_OUT Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH1
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH2
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH3
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH4
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH5
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH6
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH7
+Removed Pin From Net: NetName=GND Pin=PUSB1-SH8
+Change Component Footprint: Designator=J7 Old Footprint=IDC_2X5 New Footprint=IDC_2X8
+Change Component Footprint: Designator=IC6 Old Footprint=SOIC127P600X175-14N New Footprint=CLVC8T245MRHLTEP
+Change Component Comment : Designator=J7 Old Comment=CONN_JTAG New Comment=IDC_2X8
+Change Component Comment : Designator=IC6 Old Comment=TXB0104D New Comment=CLVC8T245MRHLTEP
+Change component parameters: Designator = "IC6" ("IC6"); Footprint = "SOIC127P600X175-14N"; UniqueID = "\AIBLVFSC" ("\AIBLVFSC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CLVC8T245MRHLTEP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/clvc8t245mrhltep/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74lvc8t245-ep"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CLVC8T245MRHLTEP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-CLVC8T245MRHLTEP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CLVC8T245MRHLTEP?qs=Mv7BduZupUhZqOM43UlRuA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "IDC_2X5"; UniqueID = "\FNJTXLUV" ("\FNJTXLUV")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "IDC_2X8"; VariantName = "[No Variations]"
+Added Component: Designator=IC11(QFN40P500X500X90-41N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/2001151131_Realtek-Semicon-ALC5651-CGT_C474323.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Realtek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ALC5651-CGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R53(R2010)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "680E"; VariantName = "[No Variations]"
+Added Component: Designator=R54(R2010)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SWSLIDT_SPDT_R_8X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Apem"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_PART#"; Value = "MHSS1105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SlideSwitch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPO1_OUT Pin=IC6-4
+Added Pin To Net: NetName=GPO2_OUT Pin=IC6-5
+Added Pin To Net: NetName=GPO3_OUT Pin=IC6-6
+Added Pin To Net: NetName=GND_ISO Pin=IC6-11
+Added Pin To Net: NetName=GND_ISO Pin=IC6-12
+Added Pin To Net: NetName=GND_ISO Pin=IC6-13
+Added Pin To Net: NetName=GPO3_OUT Pin=IC7-11
+Added Pin To Net: NetName=GPO2_OUT Pin=IC7-12
+Added Pin To Net: NetName=GPO1_OUT Pin=IC7-13
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=IC9-1
+Added Pin To Net: NetName=GND_ISO Pin=IC9-2
+Added Pin To Net: NetName=GND_ISO Pin=IC9-8
+Added Pin To Net: NetName=GND Pin=IC9-9
+Added Pin To Net: NetName=GND Pin=IC9-15
+Added Pin To Net: NetName=Current_Measurement_3_in+ Pin=IC9-16
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=IC10-1
+Added Pin To Net: NetName=GND_ISO Pin=IC10-2
+Added Pin To Net: NetName=GPI4_IN Pin=IC10-3
+Added Pin To Net: NetName=GPI5_IN Pin=IC10-4
+Added Pin To Net: NetName=GPI6_IN Pin=IC10-5
+Added Pin To Net: NetName=GPI7_IN Pin=IC10-6
+Added Pin To Net: NetName=GND_ISO Pin=IC10-8
+Added Pin To Net: NetName=GND Pin=IC10-9
+Added Pin To Net: NetName=GPI4_OUT Pin=IC10-14
+Added Pin To Net: NetName=GND Pin=IC10-15
+Added Pin To Net: NetName=Current_Measurement_3_in+ Pin=IC10-16
+Added Pin To Net: NetName=+Vin Pin=J5-1
+Added Pin To Net: NetName=GPI1_OUT Pin=P1-3
+Added Pin To Net: NetName=GPI2_OUT Pin=P1-4
+Added Pin To Net: NetName=GPI3_OUT Pin=P1-5
+Added Pin To Net: NetName=GPI4_OUT Pin=P1-6
+Added Pin To Net: NetName=GPO1_OUT Pin=P2-3
+Added Pin To Net: NetName=GPO2_OUT Pin=P2-4
+Added Pin To Net: NetName=GPO3_OUT Pin=P2-5
+Added Pin To Net: NetName=GND1 Pin=R54-1
+Added Pin To Net: NetName=+Vin Pin=SW3-1
+Change Net Name : Old Net Name=GPI6_OUT New Net Name=GPI5_OUT
+Change Net Name : Old Net Name=GPI7_OUT New Net Name=GPI6_OUT
+Change Net Name : Old Net Name=GPI8_OUT New Net Name=GPI7_OUT
+Change Net Name : Old Net Name=GPO1_IN New Net Name=GPO0_IN
+Change Net Name : Old Net Name=GPO2_IN New Net Name=GPO1_IN
+Change Net Name : Old Net Name=GPO3_IN New Net Name=GPO2_IN
+Change Net Name : Old Net Name=GPO4_IN New Net Name=GPO3_IN
+Change Net Name : Old Net Name=GPO5_IN New Net Name=GPO4_IN
+Change Net Name : Old Net Name=GPO5_OUT New Net Name=GPO4_OUT
+Change Net Name : Old Net Name=GPO6_IN New Net Name=GPO5_IN
+Change Net Name : Old Net Name=GPO6_OUT New Net Name=GPO5_OUT
+Change Net Name : Old Net Name=GPO7_IN New Net Name=GPO6_IN
+Change Net Name : Old Net Name=GPO7_OUT New Net Name=GPO6_OUT
+Change Net Name : Old Net Name=GPO8_IN New Net Name=GPO7_IN
+Change Net Name : Old Net Name=GPO8_OUT New Net Name=GPO7_OUT
+Added Pin To Net: NetName=GPI0_OUT Pin=P1-2
+Added Net: Name=GPI0_OUT
+Added Pin To Net: NetName=GPO0_OUT Pin=IC6-3
+Added Pin To Net: NetName=GPO0_OUT Pin=IC7-14
+Added Pin To Net: NetName=GPO0_OUT Pin=P2-2
+Added Net: Name=GPO0_OUT
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR53_2 Pin=SW3-3
+Added Net: Name=NetR53_2
+Added Pin To Net: NetName=ON/OFF Remote Pin=R53-1
+Added Pin To Net: NetName=ON/OFF Remote Pin=R54-2
+Added Pin To Net: NetName=ON/OFF Remote Pin=U1-6
+Added Pin To Net: NetName=ON/OFF Remote Pin=U2-6
+Added Net: Name=ON/OFF Remote
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH1
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH2
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH3
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH4
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH5
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH6
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH7
+Added Pin To Net: NetName=SHILED Pin=PUSB1-SH8
+Added Net: Name=SHILED
+Change Class Name : Old Net Name=Display New Net Name=Display 
+Added Class: Name=Audio Codec
+Added Class: Name=Power Switch

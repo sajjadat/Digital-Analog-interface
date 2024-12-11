@@ -1,0 +1,1009 @@
+Removed Pin From Net: NetName=RES_DISP Pin=C?-1
+Removed Pin From Net: NetName=VDDA Pin=C?-1
+Removed Pin From Net: NetName=FT2232_West_DM Pin=IC?-1
+Removed Pin From Net: NetName=FT2232_East_DM Pin=IC?-3
+Removed Pin From Net: NetName=FT2232_East_DP Pin=IC?-4
+Removed Pin From Net: NetName=HUB_3V3 Pin=IC?-5
+Removed Pin From Net: NetName=HUB_3V3 Pin=IC?-10
+Removed Pin From Net: NetName=GND Pin=IC?-11
+Removed Pin From Net: NetName=CRFILT Pin=IC?-14
+Removed Pin From Net: NetName=HUB_3V3 Pin=IC?-15
+Removed Pin From Net: NetName=RES_DISP Pin=R?-1
+Removed Pin From Net: NetName=RES_DISP Pin=SW?-2
+Removed Pin From Net: NetName=VDDA Pin=U?-9
+Removed Member From Class: ClassName=AUX Power Member=C?
+Removed Member From Class: ClassName=FT2232HL East Member=C?
+Removed Member From Class: ClassName=FT2232HL West Member=C?
+Removed Member From Class: ClassName=Main Power Member=C?
+Removed Member From Class: ClassName=MCU 1 Member=C?
+Removed Member From Class: ClassName=MCU Sup Member=C?
+Removed Member From Class: ClassName=RS232 Member=C?
+Removed Member From Class: ClassName=Terminals Member=C?
+Removed Member From Class: ClassName=USB HUB Member=C?
+Removed Member From Class: ClassName=AUX Power Member=D?
+Removed Member From Class: ClassName=FT2232HL East Member=D?
+Removed Member From Class: ClassName=FT2232HL West Member=D?
+Removed Member From Class: ClassName=USB HUB Member=D?
+Removed Member From Class: ClassName=FT2232HL West Member=FB?
+Removed Member From Class: ClassName=RS485 Member=FB?
+Removed Member From Class: ClassName=Terminals Member=FB?
+Removed Member From Class: ClassName=BIT(Built in Test) Member=FL?
+Removed Member From Class: ClassName=GPIOs Member=IC?
+Removed Member From Class: ClassName=USB HUB Member=IC?
+Removed Member From Class: ClassName=JTAG Member=J?
+Removed Member From Class: ClassName=Memory Member=J?
+Removed Member From Class: ClassName=MCU 1 Member=P?
+Removed Member From Class: ClassName=SPI , I2C Member=P?
+Removed Member From Class: ClassName=AUX Power Member=R?
+Removed Member From Class: ClassName=FT2232HL East Member=R?
+Removed Member From Class: ClassName=FT2232HL West Member=R?
+Removed Member From Class: ClassName=Main Power Member=R?
+Removed Member From Class: ClassName=MCU 1 Member=R?
+Removed Member From Class: ClassName=MCU Sup Member=R?
+Removed Member From Class: ClassName=MCU 1 Member=SW?
+Removed Member From Class: ClassName=CAN Member=U?
+Removed Member From Class: ClassName=FT2232HL East Member=U?
+Removed Member From Class: ClassName=FT2232HL West Member=U?
+Removed Member From Class: ClassName=MCU 1 Member=U?
+Removed Member From Class: ClassName=MCU Sup Member=U?
+Removed Member From Class: ClassName=RS232 Member=U?
+Removed Member From Class: ClassName=FT2232HL East Member=X?
+Change Component Comment : Designator=IC? Old Comment=ADUM1401BRWZ New Comment=ADUM1400BRWZ-RL
+Change Component Comment : Designator=IC? Old Comment=ADUM1401BRWZ New Comment=ADUM1400BRWZ-RL
+Change Component Comment : Designator=IC? Old Comment=ADUM1401BRWZ New Comment=ADUM1400BRWZ-RL
+Change Component Comment : Designator=IC? Old Comment=ADUM1401BRWZ New Comment=ADUM1400BRWZ-RL
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C57
+Change Component Designator: OldDesignator=C? NewDesignator=C58
+Change Component Designator: OldDesignator=C? NewDesignator=C59
+Change Component Designator: OldDesignator=C? NewDesignator=C60
+Change Component Designator: OldDesignator=C? NewDesignator=C61
+Change Component Designator: OldDesignator=C? NewDesignator=C62
+Change Component Designator: OldDesignator=C? NewDesignator=C63
+Change Component Designator: OldDesignator=C? NewDesignator=C64
+Change Component Designator: OldDesignator=C? NewDesignator=C65
+Change Component Designator: OldDesignator=C? NewDesignator=C66
+Change Component Designator: OldDesignator=C? NewDesignator=C67
+Change Component Designator: OldDesignator=C? NewDesignator=C68
+Change Component Designator: OldDesignator=C? NewDesignator=C69
+Change Component Designator: OldDesignator=C? NewDesignator=C70
+Change Component Designator: OldDesignator=C? NewDesignator=C71
+Change Component Designator: OldDesignator=C? NewDesignator=C72
+Change Component Designator: OldDesignator=C? NewDesignator=C73
+Change Component Designator: OldDesignator=C? NewDesignator=C74
+Change Component Designator: OldDesignator=C? NewDesignator=C75
+Change Component Designator: OldDesignator=C? NewDesignator=C76
+Change Component Designator: OldDesignator=C? NewDesignator=C77
+Change Component Designator: OldDesignator=C? NewDesignator=C78
+Change Component Designator: OldDesignator=C? NewDesignator=C79
+Change Component Designator: OldDesignator=C? NewDesignator=C80
+Change Component Designator: OldDesignator=C? NewDesignator=C81
+Change Component Designator: OldDesignator=C? NewDesignator=C82
+Change Component Designator: OldDesignator=C? NewDesignator=C83
+Change Component Designator: OldDesignator=C? NewDesignator=C84
+Change Component Designator: OldDesignator=C? NewDesignator=C85
+Change Component Designator: OldDesignator=C? NewDesignator=C86
+Change Component Designator: OldDesignator=C? NewDesignator=C87
+Change Component Designator: OldDesignator=C? NewDesignator=C88
+Change Component Designator: OldDesignator=C? NewDesignator=C89
+Change Component Designator: OldDesignator=C? NewDesignator=C90
+Change Component Designator: OldDesignator=C? NewDesignator=C91
+Change Component Designator: OldDesignator=C? NewDesignator=C92
+Change Component Designator: OldDesignator=C? NewDesignator=C93
+Change Component Designator: OldDesignator=C? NewDesignator=C94
+Change Component Designator: OldDesignator=C? NewDesignator=C95
+Change Component Designator: OldDesignator=C? NewDesignator=C96
+Change Component Designator: OldDesignator=C? NewDesignator=C97
+Change Component Designator: OldDesignator=C? NewDesignator=C98
+Change Component Designator: OldDesignator=C? NewDesignator=C99
+Change Component Designator: OldDesignator=C? NewDesignator=C100
+Change Component Designator: OldDesignator=C? NewDesignator=C101
+Change Component Designator: OldDesignator=C? NewDesignator=C102
+Change Component Designator: OldDesignator=C? NewDesignator=C103
+Change Component Designator: OldDesignator=C? NewDesignator=C104
+Change Component Designator: OldDesignator=C? NewDesignator=C105
+Change Component Designator: OldDesignator=C? NewDesignator=C106
+Change Component Designator: OldDesignator=C? NewDesignator=C107
+Change Component Designator: OldDesignator=C? NewDesignator=C108
+Change Component Designator: OldDesignator=C? NewDesignator=C109
+Change Component Designator: OldDesignator=C? NewDesignator=C110
+Change Component Designator: OldDesignator=C? NewDesignator=C111
+Change Component Designator: OldDesignator=C? NewDesignator=C112
+Change Component Designator: OldDesignator=C? NewDesignator=C113
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=D? NewDesignator=D11
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=FB? NewDesignator=FB3
+Change Component Designator: OldDesignator=FB? NewDesignator=FB4
+Change Component Designator: OldDesignator=FB? NewDesignator=FB5
+Change Component Designator: OldDesignator=FL? NewDesignator=FL1
+Change Component Designator: OldDesignator=FL? NewDesignator=FL2
+Change Component Designator: OldDesignator=FL? NewDesignator=FL3
+Change Component Designator: OldDesignator=FL? NewDesignator=FL4
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Component Designator: OldDesignator=IC? NewDesignator=IC6
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Change Component Designator: OldDesignator=JP? NewDesignator=JP10
+Change Component Designator: OldDesignator=JP? NewDesignator=JP11
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=PUSB? NewDesignator=PUSB1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Component Designator: OldDesignator=R? NewDesignator=R48
+Change Component Designator: OldDesignator=R? NewDesignator=R49
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Change Component Designator: OldDesignator=U? NewDesignator=U12
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change component parameters: Designator = "IC?" ("IC?"); Footprint = "SOIC127P1032X265-16N"; UniqueID = "\FZTJUYGA" ("\FZTJUYGA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adum1400brwz-rl/analog-devices?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADUM1400/datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "584-ADUM1400BRWZ-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM1400BRWZ-RL?qs=WIvQP4zGanh%2FP3K3z%252BgM%252Bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC?" ("IC?"); Footprint = "SOIC127P1032X265-16N"; UniqueID = "\PWHIVHIK" ("\PWHIVHIK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adum1400brwz-rl/analog-devices?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADUM1400/datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "584-ADUM1400BRWZ-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM1400BRWZ-RL?qs=WIvQP4zGanh%2FP3K3z%252BgM%252Bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC?" ("IC?"); Footprint = "SOIC127P1032X265-16N"; UniqueID = "\EKGZVJPG" ("\EKGZVJPG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adum1400brwz-rl/analog-devices?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADUM1400/datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "584-ADUM1400BRWZ-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM1400BRWZ-RL?qs=WIvQP4zGanh%2FP3K3z%252BgM%252Bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC?" ("IC?"); Footprint = "SOIC127P1032X265-16N"; UniqueID = "\BWBQBQRF" ("\BWBQBQRF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adum1400brwz-rl/analog-devices?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADUM1400/datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADUM1400BRWZ-RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "584-ADUM1400BRWZ-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM1400BRWZ-RL?qs=WIvQP4zGanh%2FP3K3z%252BgM%252Bw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "CAP, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "C1005X7R1H104K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "X7R, 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 27$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found QFN50P600X600X100-37N-D
+Added Component: Designator=P?(DSUB_9RF)
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DSUB_9RF"; VariantName = "[No Variations]"
+Added Component: Designator=P?(DSUB_9RF)
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DSUB_9RF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET_NOT_MCU_SUP Pin=C69-1
+Added Pin To Net: NetName=FT232_VCCIO Pin=C110-2
+Added Pin To Net: NetName=Current_measure_3_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_3_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_3_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_3_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_4_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_4_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_4_in- Pin=C?-1
+Added Pin To Net: NetName=Current_measure_4_in- Pin=C?-1
+Added Pin To Net: NetName=GND_ISO Pin=C?-2
+Added Pin To Net: NetName=GND_ISO Pin=C?-2
+Added Pin To Net: NetName=GND_ISO Pin=C?-2
+Added Pin To Net: NetName=GND_ISO Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=Current_Measurement_3_in+ Pin=IC1-3
+Added Pin To Net: NetName=Current_Measurement_4_in+ Pin=IC2-3
+Add Pin To Net: Unknown Pin: Pin IC4-1
+Add Pin To Net: Unknown Pin: Pin IC4-2
+Add Pin To Net: Unknown Pin: Pin IC4-3
+Add Pin To Net: Unknown Pin: Pin IC4-4
+Add Pin To Net: Unknown Pin: Pin IC4-5
+Add Pin To Net: Unknown Pin: Pin IC4-10
+Add Pin To Net: Unknown Pin: Pin IC4-11
+Add Pin To Net: Unknown Pin: Pin IC4-14
+Add Pin To Net: Unknown Pin: Pin IC4-15
+Add Pin To Net: Unknown Pin: Pin IC4-23
+Add Pin To Net: Unknown Pin: Pin IC4-26
+Add Pin To Net: Unknown Pin: Pin IC4-27
+Add Pin To Net: Unknown Pin: Pin IC4-29
+Add Pin To Net: Unknown Pin: Pin IC4-30
+Add Pin To Net: Unknown Pin: Pin IC4-31
+Add Pin To Net: Unknown Pin: Pin IC4-34
+Add Pin To Net: Unknown Pin: Pin IC4-35
+Add Pin To Net: Unknown Pin: Pin IC4-36
+Add Pin To Net: Unknown Pin: Pin IC4-37
+Added Pin To Net: NetName=Current_measure_3_in- Pin=IC?-1
+Added Pin To Net: NetName=GND_ISO Pin=IC?-15
+Added Pin To Net: NetName=FT232_VCCIO Pin=P7-2
+Added Pin To Net: NetName=A_485 Pin=P?-1
+Added Pin To Net: NetName=B_485 Pin=P?-2
+Added Pin To Net: NetName=Y_485 Pin=P?-3
+Added Pin To Net: NetName=Z_485 Pin=P?-4
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-6
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-7
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-8
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-9
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-MH1
+Added Pin To Net: NetName=GND_SER_485 Pin=P?-MH2
+Added Pin To Net: NetName=GND Pin=PUSB1-SH1
+Added Pin To Net: NetName=GND Pin=PUSB1-SH2
+Added Pin To Net: NetName=GND Pin=PUSB1-SH3
+Added Pin To Net: NetName=GND Pin=PUSB1-SH4
+Added Pin To Net: NetName=GND Pin=PUSB1-SH5
+Added Pin To Net: NetName=GND Pin=PUSB1-SH6
+Added Pin To Net: NetName=GND Pin=PUSB1-SH7
+Added Pin To Net: NetName=GND Pin=PUSB1-SH8
+Added Pin To Net: NetName=Current_Measurement_1_in+ Pin=R2-1
+Added Pin To Net: NetName=Current_Measurement_3_in+ Pin=R3-2
+Added Pin To Net: NetName=Current_Measurement_4_in+ Pin=R4-2
+Added Pin To Net: NetName=Current_measure_1_in- Pin=R23-2
+Added Pin To Net: NetName=Current_measure_2_in- Pin=R25-2
+Added Pin To Net: NetName=Current_measure_3_in- Pin=R26-2
+Added Pin To Net: NetName=Current_measure_2_in+ Pin=R27-1
+Added Pin To Net: NetName=Current_measure_4_in- Pin=R29-2
+Added Pin To Net: NetName=RESET_NOT_MCU_SUP Pin=R31-1
+Added Pin To Net: NetName=FT232_VDD Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=RESET_NOT_MCU_SUP Pin=SW2-2
+Added Pin To Net: NetName=Current_Measurement_1_in+ Pin=U2-3
+Added Pin To Net: NetName=FT232_VCCIO Pin=U12-4
+Change Net Name : Old Net Name=Current_measure_1_in- New Net Name=Current_Measurement_1_in-
+Change Net Name : Old Net Name=Current_measure_2_in+ New Net Name=Current_Measurement_2_in+
+Change Net Name : Old Net Name=Current_measure_2_in- New Net Name=Current_Measurement_2_in-
+Change Net Name : Old Net Name=Current_measure_3_in- New Net Name=Current_Measurement_3_in-
+Change Net Name : Old Net Name=Current_measure_4_in- New Net Name=Current_Measurement_4_in-
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC87_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC52_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP4_3
+Change Net Name : Old Net Name=NetP?_4 New Net Name=NetP4_4
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR44_2
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU10_63
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU10_62
+Change Net Name : Old Net Name=VDDA New Net Name=VDDA_MainMCU
+Added Pin To Net: NetName=GPI1_IN Pin=IC?-3
+Added Pin To Net: NetName=GPI1_IN Pin=U10-43
+Added Net: Name=GPI1_IN
+Added Pin To Net: NetName=GPI1_OUT Pin=IC?-14
+Added Pin To Net: NetName=GPI1_OUT Pin=P1-2
+Added Net: Name=GPI1_OUT
+Added Pin To Net: NetName=GPI2_IN Pin=IC?-4
+Added Pin To Net: NetName=GPI2_IN Pin=U10-44
+Added Net: Name=GPI2_IN
+Added Pin To Net: NetName=GPI2_OUT Pin=IC?-13
+Added Pin To Net: NetName=GPI2_OUT Pin=P1-3
+Added Net: Name=GPI2_OUT
+Added Pin To Net: NetName=GPI3_IN Pin=IC?-5
+Added Pin To Net: NetName=GPI3_IN Pin=U10-45
+Added Net: Name=GPI3_IN
+Added Pin To Net: NetName=GPI3_OUT Pin=IC?-12
+Added Pin To Net: NetName=GPI3_OUT Pin=P1-4
+Added Net: Name=GPI3_OUT
+Added Pin To Net: NetName=GPI4_IN Pin=IC?-6
+Added Pin To Net: NetName=GPI4_IN Pin=U10-46
+Added Net: Name=GPI4_IN
+Added Pin To Net: NetName=GPI4_OUT Pin=IC?-11
+Added Pin To Net: NetName=GPI4_OUT Pin=P1-5
+Added Net: Name=GPI4_OUT
+Added Pin To Net: NetName=GPI5_IN Pin=IC?-3
+Added Pin To Net: NetName=GPI5_IN Pin=U10-48
+Added Net: Name=GPI5_IN
+Added Pin To Net: NetName=GPI5_OUT Pin=IC?-14
+Added Pin To Net: NetName=GPI5_OUT Pin=P1-6
+Added Net: Name=GPI5_OUT
+Added Pin To Net: NetName=GPI6_IN Pin=IC?-4
+Added Pin To Net: NetName=GPI6_IN Pin=U10-52
+Added Net: Name=GPI6_IN
+Added Pin To Net: NetName=GPI6_OUT Pin=IC?-13
+Added Pin To Net: NetName=GPI6_OUT Pin=P1-7
+Added Net: Name=GPI6_OUT
+Added Pin To Net: NetName=GPI7_IN Pin=IC?-5
+Added Pin To Net: NetName=GPI7_IN Pin=U10-53
+Added Net: Name=GPI7_IN
+Added Pin To Net: NetName=GPI7_OUT Pin=IC?-12
+Added Pin To Net: NetName=GPI7_OUT Pin=P1-8
+Added Net: Name=GPI7_OUT
+Added Pin To Net: NetName=GPI8_IN Pin=IC?-6
+Added Pin To Net: NetName=GPI8_IN Pin=U10-54
+Added Net: Name=GPI8_IN
+Added Pin To Net: NetName=GPI8_OUT Pin=IC?-11
+Added Pin To Net: NetName=GPI8_OUT Pin=P1-9
+Added Net: Name=GPI8_OUT
+Added Pin To Net: NetName=GPO1_IN Pin=IC?-3
+Added Pin To Net: NetName=GPO1_IN Pin=U8-43
+Added Net: Name=GPO1_IN
+Added Pin To Net: NetName=GPO1_OUT Pin=IC?-14
+Added Pin To Net: NetName=GPO1_OUT Pin=P2-2
+Added Net: Name=GPO1_OUT
+Added Pin To Net: NetName=GPO2_IN Pin=IC?-4
+Added Pin To Net: NetName=GPO2_IN Pin=U8-44
+Added Net: Name=GPO2_IN
+Added Pin To Net: NetName=GPO2_OUT Pin=IC?-13
+Added Pin To Net: NetName=GPO2_OUT Pin=P2-3
+Added Net: Name=GPO2_OUT
+Added Pin To Net: NetName=GPO3_IN Pin=IC?-5
+Added Pin To Net: NetName=GPO3_IN Pin=U8-45
+Added Net: Name=GPO3_IN
+Added Pin To Net: NetName=GPO3_OUT Pin=IC?-12
+Added Pin To Net: NetName=GPO3_OUT Pin=P2-4
+Added Net: Name=GPO3_OUT
+Added Pin To Net: NetName=GPO4_IN Pin=IC?-6
+Added Pin To Net: NetName=GPO4_IN Pin=U8-46
+Added Net: Name=GPO4_IN
+Added Pin To Net: NetName=GPO4_OUT Pin=IC?-11
+Added Pin To Net: NetName=GPO4_OUT Pin=P2-5
+Added Net: Name=GPO4_OUT
+Added Pin To Net: NetName=GPO5_IN Pin=IC?-3
+Added Pin To Net: NetName=GPO5_IN Pin=U8-48
+Added Net: Name=GPO5_IN
+Added Pin To Net: NetName=GPO5_OUT Pin=IC?-14
+Added Pin To Net: NetName=GPO5_OUT Pin=P2-6
+Added Net: Name=GPO5_OUT
+Added Pin To Net: NetName=GPO6_IN Pin=IC?-4
+Added Pin To Net: NetName=GPO6_IN Pin=U8-52
+Added Net: Name=GPO6_IN
+Added Pin To Net: NetName=GPO6_OUT Pin=IC?-13
+Added Pin To Net: NetName=GPO6_OUT Pin=P2-7
+Added Net: Name=GPO6_OUT
+Added Pin To Net: NetName=GPO7_IN Pin=IC?-5
+Added Pin To Net: NetName=GPO7_IN Pin=U8-53
+Added Net: Name=GPO7_IN
+Added Pin To Net: NetName=GPO7_OUT Pin=IC?-12
+Added Pin To Net: NetName=GPO7_OUT Pin=P2-8
+Added Net: Name=GPO7_OUT
+Added Pin To Net: NetName=GPO8_IN Pin=IC?-6
+Added Pin To Net: NetName=GPO8_IN Pin=U8-54
+Added Net: Name=GPO8_IN
+Added Pin To Net: NetName=GPO8_OUT Pin=IC?-11
+Added Pin To Net: NetName=GPO8_OUT Pin=P2-9
+Added Net: Name=GPO8_OUT
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=FB1-1
+Added Pin To Net: NetName=NetC1_2 Pin=PUSB1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=D1-1
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=L1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=D2-1
+Added Pin To Net: NetName=NetC4_2 Pin=L2-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=L2-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=R13-2
+Added Pin To Net: NetName=NetC33_1 Pin=X2-2
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R13-1
+Added Pin To Net: NetName=NetC35_1 Pin=X2-1
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=FL1-4
+Added Pin To Net: NetName=NetC48_1 Pin=R23-1
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=FL1-3
+Added Pin To Net: NetName=NetC48_2 Pin=R24-2
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=NetC51_1 Pin=FL2-4
+Added Pin To Net: NetName=NetC51_1 Pin=R25-1
+Added Net: Name=NetC51_1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC51_2 Pin=FL2-3
+Added Pin To Net: NetName=NetC51_2 Pin=R27-2
+Added Net: Name=NetC51_2
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=NetC52_1 Pin=FL3-4
+Added Pin To Net: NetName=NetC52_1 Pin=R26-1
+Added Net: Name=NetC52_1
+Added Pin To Net: NetName=NetC54_1 Pin=C54-1
+Added Pin To Net: NetName=NetC54_1 Pin=FL4-4
+Added Pin To Net: NetName=NetC54_1 Pin=R29-1
+Added Net: Name=NetC54_1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=FL4-3
+Added Pin To Net: NetName=NetC54_2 Pin=R30-2
+Added Net: Name=NetC54_2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=C57-2
+Added Pin To Net: NetName=NetC56_1 Pin=U5-20
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetC57_1 Pin=C57-1
+Added Pin To Net: NetName=NetC57_1 Pin=U5-19
+Added Net: Name=NetC57_1
+Added Pin To Net: NetName=NetC58_1 Pin=C58-1
+Added Pin To Net: NetName=NetC58_1 Pin=U5-18
+Added Net: Name=NetC58_1
+Added Pin To Net: NetName=NetC58_2 Pin=C58-2
+Added Pin To Net: NetName=NetC58_2 Pin=U5-17
+Added Net: Name=NetC58_2
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=U5-14
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetC59_2 Pin=C59-2
+Added Pin To Net: NetName=NetC59_2 Pin=U5-13
+Added Net: Name=NetC59_2
+Added Pin To Net: NetName=NetC60_2 Pin=C60-2
+Added Pin To Net: NetName=NetC60_2 Pin=U5-12
+Added Net: Name=NetC60_2
+Added Pin To Net: NetName=NetC61_1 Pin=C61-1
+Added Pin To Net: NetName=NetC61_1 Pin=C62-2
+Added Pin To Net: NetName=NetC61_1 Pin=IC5-2
+Added Net: Name=NetC61_1
+Added Pin To Net: NetName=NetC63_1 Pin=C63-1
+Added Pin To Net: NetName=NetC63_1 Pin=C64-2
+Added Pin To Net: NetName=NetC63_1 Pin=C68-2
+Added Pin To Net: NetName=NetC63_1 Pin=FB2-2
+Added Pin To Net: NetName=NetC63_1 Pin=IC5-19
+Added Net: Name=NetC63_1
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=NetC65_2 Pin=C66-1
+Added Pin To Net: NetName=NetC65_2 Pin=IC5-8
+Added Net: Name=NetC65_2
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=FB3-1
+Added Pin To Net: NetName=NetC67_1 Pin=IC5-11
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Pin To Net: NetName=NetC67_2 Pin=FB2-1
+Added Pin To Net: NetName=NetC67_2 Pin=IC5-12
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC90_1 Pin=C90-1
+Added Pin To Net: NetName=NetC90_1 Pin=U8-3
+Added Pin To Net: NetName=NetC90_1 Pin=X3-1
+Added Net: Name=NetC90_1
+Added Pin To Net: NetName=NetC101_1 Pin=C101-1
+Added Pin To Net: NetName=NetC101_1 Pin=U10-2
+Added Pin To Net: NetName=NetC101_1 Pin=X4-2
+Added Net: Name=NetC101_1
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=NetC102_1 Pin=U10-3
+Added Pin To Net: NetName=NetC102_1 Pin=X4-1
+Added Net: Name=NetC102_1
+Added Pin To Net: NetName=NetC111_1 Pin=C111-1
+Added Pin To Net: NetName=NetC111_1 Pin=P7-3
+Added Pin To Net: NetName=NetC111_1 Pin=U12-17
+Added Net: Name=NetC111_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R5-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R14-2
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetIC4_22 Pin=R16-2
+Added Net: Name=NetIC4_22
+Added Pin To Net: NetName=NetIC4_24 Pin=R17-2
+Added Net: Name=NetIC4_24
+Added Pin To Net: NetName=NetIC4_25 Pin=R18-2
+Added Net: Name=NetIC4_25
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U8-7
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U8-8
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U8-6
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=U8-61
+Added Pin To Net: NetName=NetR39_2 Pin=U9-3
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=U10-7
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=R47-1
+Added Pin To Net: NetName=NetR45_2 Pin=U11-4
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U10-6
+Added Net: Name=NetR46_2
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=U10-61
+Added Pin To Net: NetName=NetR47_2 Pin=U11-3
+Added Net: Name=NetR47_2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=U12-14
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U12-19
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetU8_62 Pin=U8-62
+Added Pin To Net: NetName=NetU8_62 Pin=U9-2
+Added Net: Name=NetU8_62
+Added Pin To Net: NetName=NetU8_63 Pin=U8-63
+Added Pin To Net: NetName=NetU8_63 Pin=U9-1
+Added Net: Name=NetU8_63
+Added Pin To Net: NetName=USB_TTL_CTS Pin=U3-53
+Added Pin To Net: NetName=USB_TTL_CTS Pin=U12-11
+Added Net: Name=USB_TTL_CTS
+Added Pin To Net: NetName=USB_TTL_RTS Pin=U3-54
+Added Pin To Net: NetName=USB_TTL_RTS Pin=U12-3
+Added Net: Name=USB_TTL_RTS
+Added Pin To Net: NetName=VDDA Pin=C70-1
+Added Pin To Net: NetName=VDDA Pin=U6-9
+Added Net: Name=VDDA
+Change Class Name : Old Net Name=BIT(Built in Test) New Net Name=USB_TTL
+Change Class Name : Old Net Name=RS485 New Net Name=Isolators
+Added Class: Name=BIT(Built in Test)
+Added Class: Name=Display 
+Added Class: Name=RS485
+Added Member To Class: ClassName=Terminals Member=Component C1 10nF
+Added Member To Class: ClassName=Main Power Member=Component C2 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C3 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C4 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C5 Capacitor Tantalum SMD
+Added Member To Class: ClassName=Main Power Member=Component C6 10uF
+Added Member To Class: ClassName=Main Power Member=Component C7 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C8 10uF
+Added Member To Class: ClassName=Main Power Member=Component C9 0.22uF
+Added Member To Class: ClassName=Main Power Member=Component C10 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C11 0.1uF
+Added Member To Class: ClassName=AUX Power Member=Component C12 1uF
+Added Member To Class: ClassName=MCU 1 Member=Component C13 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C14 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C15 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C16 Capacitor C SMD 0603
+Added Member To Class: ClassName=MCU 1 Member=Component C17 1uF
+Added Member To Class: ClassName=MCU 1 Member=Component C18 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C19 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C20 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C21 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C22 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C23 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C24 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C25 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C26 4.7uF
+Added Member To Class: ClassName=MCU 1 Member=Component C27 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C28 ?uF
+Added Member To Class: ClassName=MCU 1 Member=Component C29 ?nF
+Added Member To Class: ClassName=MCU 1 Member=Component C30 2.2uF
+Added Member To Class: ClassName=MCU 1 Member=Component C31 100nF
+Added Member To Class: ClassName=MCU 1 Member=Component C32 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C33 30PF
+Added Member To Class: ClassName=USB HUB Member=Component C34 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C35 30PF
+Added Member To Class: ClassName=USB HUB Member=Component C36 0.1uF
+Added Member To Class: ClassName=USB HUB Member=Component C37 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C38 1.0uF-16V
+Added Member To Class: ClassName=USB HUB Member=Component C39 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C40 1.0uF-16V
+Added Member To Class: ClassName=USB HUB Member=Component C41 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C42 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C43 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C44 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C45 100nF
+Added Member To Class: ClassName=USB HUB Member=Component C46 1.0uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C55 0.1uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C56 0.1uF-10V
+Added Member To Class: ClassName=RS232 Member=Component C57 0.1uF-10V
+Added Member To Class: ClassName=RS232 Member=Component C58 0.1uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C59 0.1uF-16V
+Added Member To Class: ClassName=RS232 Member=Component C60 0.1uF-16V
+Added Member To Class: ClassName=MCU Sup Member=Component C69 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C70 1uF
+Added Member To Class: ClassName=MCU Sup Member=Component C71 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C72 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C73 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C74 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C75 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C76 =VALUE
+Added Member To Class: ClassName=MCU Sup Member=Component C77 ?uF
+Added Member To Class: ClassName=MCU Sup Member=Component C78 ?nF
+Added Member To Class: ClassName=MCU Sup Member=Component C79 2.2uF
+Added Member To Class: ClassName=MCU Sup Member=Component C80 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C82 4.7uF
+Added Member To Class: ClassName=FT2232HL West Member=Component C83 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C84 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C85 4.7uF
+Added Member To Class: ClassName=FT2232HL West Member=Component C86 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C87 30PF
+Added Member To Class: ClassName=FT2232HL West Member=Component C88 4.7uF
+Added Member To Class: ClassName=FT2232HL West Member=Component C89 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C90 30PF
+Added Member To Class: ClassName=FT2232HL West Member=Component C91 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C92 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C93 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C94 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C95 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C96 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C97 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C98 4.7uF
+Added Member To Class: ClassName=FT2232HL East Member=Component C99 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C100 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C101 30PF
+Added Member To Class: ClassName=FT2232HL East Member=Component C102 30PF
+Added Member To Class: ClassName=FT2232HL East Member=Component C103 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C104 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C105 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C106 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C107 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C108 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C109 100nF
+Added Member To Class: ClassName=USB_TTL Member=Component C110 100nF
+Added Member To Class: ClassName=USB_TTL Member=Component C112 4.7uF
+Added Member To Class: ClassName=USB_TTL Member=Component C113 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Isolators Member=Component C? 100nF
+Added Member To Class: ClassName=Main Power Member=Component D1 SS510B
+Added Member To Class: ClassName=Main Power Member=Component D2 SS510B
+Added Member To Class: ClassName=Main Power Member=Component D4 SS24F
+Added Member To Class: ClassName=Main Power Member=Component D5 SS24F
+Added Member To Class: ClassName=AUX Power Member=Component D6 LED603RED
+Added Member To Class: ClassName=USB HUB Member=Component D7 LED603RED
+Added Member To Class: ClassName=FT2232HL West Member=Component D8 TVS603
+Added Member To Class: ClassName=FT2232HL West Member=Component D9 TVS603
+Added Member To Class: ClassName=FT2232HL East Member=Component D10 TVS603
+Added Member To Class: ClassName=FT2232HL East Member=Component D11 TVS603
+Added Member To Class: ClassName=Terminals Member=Component FB1 600R / 0.5A
+Added Member To Class: ClassName=FT2232HL West Member=Component FB4 600R / 0.5A
+Added Member To Class: ClassName=FT2232HL West Member=Component FB5 600R / 0.5A
+Added Member To Class: ClassName=Main Power Member=Component IC2 LF33CDT
+Added Member To Class: ClassName=Main Power Member=Component IC3 MCP1700T-3302E_TT_1
+Add Class Member: Failed to add class member : Component IC4 USB2514B-AEZG
+Added Member To Class: ClassName=GPIOs Member=Component IC6 TXB0104D
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC? ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Terminals Member=Component J2 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J3 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J4 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J5 DC_POWER_JACK
+Added Member To Class: ClassName=Memory Member=Component J6 ST-TF-003A
+Added Member To Class: ClassName=JTAG Member=Component J7 CONN_JTAG
+Added Member To Class: ClassName=AUX Power Member=Component JP1 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP2 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP3 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP4 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP5 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP6 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP8 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP9 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP10 JMPHDR2PIN
+Added Member To Class: ClassName=AUX Power Member=Component JP11 JMPHDR2PIN
+Added Member To Class: ClassName=Main Power Member=Component L2 CD43-4.7uH
+Added Member To Class: ClassName=Terminals Member=Component P1 DSUB_25RF
+Added Member To Class: ClassName=Terminals Member=Component P2 DSUB_25RF
+Added Member To Class: ClassName=MCU 1 Member=Component P3 Header 3
+Added Member To Class: ClassName=SPI , I2C Member=Component P5 Header 4
+Added Member To Class: ClassName=SPI , I2C Member=Component P6 Header 2
+Added Member To Class: ClassName=USB_TTL Member=Component P7 Header 3
+Added Member To Class: ClassName=Terminals Member=Component P? DSUB_9RF
+Added Member To Class: ClassName=Main Power Member=Component R1 30m
+Added Member To Class: ClassName=Main Power Member=Component R2 30m
+Added Member To Class: ClassName=Main Power Member=Component R3 30m
+Added Member To Class: ClassName=Main Power Member=Component R4 30m
+Added Member To Class: ClassName=AUX Power Member=Component R5 1K
+Added Member To Class: ClassName=MCU 1 Member=Component R6 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R7 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R8 0R
+Added Member To Class: ClassName=MCU 1 Member=Component R9 1M
+Added Member To Class: ClassName=MCU 1 Member=Component R10 10k
+Added Member To Class: ClassName=MCU 1 Member=Component R11 10k
+Added Member To Class: ClassName=USB HUB Member=Component R12 0R
+Added Member To Class: ClassName=USB HUB Member=Component R13 1M
+Added Member To Class: ClassName=USB HUB Member=Component R14 100K
+Added Member To Class: ClassName=USB HUB Member=Component R15 330E
+Added Member To Class: ClassName=USB HUB Member=Component R16 100K
+Added Member To Class: ClassName=USB HUB Member=Component R17 100K
+Added Member To Class: ClassName=USB HUB Member=Component R18 100K
+Added Member To Class: ClassName=USB HUB Member=Component R19 100K
+Added Member To Class: ClassName=USB HUB Member=Component R20 100K
+Added Member To Class: ClassName=USB HUB Member=Component R22 100K
+Added Member To Class: ClassName=MCU Sup Member=Component R31 10k
+Added Member To Class: ClassName=MCU Sup Member=Component R32 10K
+Added Member To Class: ClassName=MCU Sup Member=Component R33 10K
+Added Member To Class: ClassName=FT2232HL West Member=Component R34 0R
+Added Member To Class: ClassName=FT2232HL West Member=Component R35 10E
+Added Member To Class: ClassName=FT2232HL West Member=Component R36 10E
+Added Member To Class: ClassName=FT2232HL West Member=Component R37 12K
+Added Member To Class: ClassName=FT2232HL West Member=Component R38 12K
+Added Member To Class: ClassName=FT2232HL West Member=Component R39 12K
+Added Member To Class: ClassName=FT2232HL West Member=Component R40 15K
+Added Member To Class: ClassName=FT2232HL West Member=Component R41 10K
+Added Member To Class: ClassName=FT2232HL East Member=Component R42 0R
+Added Member To Class: ClassName=FT2232HL East Member=Component R43 10E
+Added Member To Class: ClassName=FT2232HL East Member=Component R44 10E
+Added Member To Class: ClassName=FT2232HL East Member=Component R45 12K
+Added Member To Class: ClassName=FT2232HL East Member=Component R46 12K
+Added Member To Class: ClassName=FT2232HL East Member=Component R47 12K
+Added Member To Class: ClassName=FT2232HL East Member=Component R48 15K
+Added Member To Class: ClassName=FT2232HL East Member=Component R49 10K
+Added Member To Class: ClassName=USB_TTL Member=Component R50 10K
+Added Member To Class: ClassName=USB_TTL Member=Component R? 10K
+Added Member To Class: ClassName=MCU 1 Member=Component SW1 PUSHBUTTON
+Added Member To Class: ClassName=Test Points Member=Component TP1 TESTPOINT_PROBE
+Added Member To Class: ClassName=Test Points Member=Component TP3 TESTPOINT_PROBE
+Added Member To Class: ClassName=Test Points Member=Component TP4 TESTPOINT_PROBE
+Added Member To Class: ClassName=Main Power Member=Component U2 MJWI10-24S05
+Added Member To Class: ClassName=MCU 1 Member=Component U3 STM32H7B0VBT6
+Added Member To Class: ClassName=CAN Member=Component U4 MCP2551
+Added Member To Class: ClassName=RS232 Member=Component U5 ADM3251
+Added Member To Class: ClassName=MCU Sup Member=Component U6 STM32F103
+Added Member To Class: ClassName=FT2232HL West Member=Component U8 FT2232HL
+Added Member To Class: ClassName=FT2232HL West Member=Component U9 CAT93C46
+Added Member To Class: ClassName=FT2232HL East Member=Component U10 FT2232HL
+Added Member To Class: ClassName=FT2232HL East Member=Component U11 CAT93C46
+Added Member To Class: ClassName=USB_TTL Member=Component U12 FT232RL
+Added Member To Class: ClassName=FT2232HL East Member=Component X4 XTL_12MHz

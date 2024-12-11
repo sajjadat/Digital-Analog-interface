@@ -1,0 +1,9 @@
+Remove Pin=IC21-14 From Net=GPO4_OUT
+Remove Pin=IC18-14 From Net=GPI4_OUT_Buff
+Remove Pin=IC20-14 From Net=GPI0_OUT_Buff
+Change Pin Designator/Name:  Old Designator=IC13-7 Old Name=GND New Designator =NC New Name=7
+Change Pin Designator/Name:  Old Designator=IC13-14 Old Name=VCC New Designator =VOA New Name=14
+Change Pin Designator/Name:  Old Designator=IC14-7 Old Name=GND New Designator =NC New Name=7
+Change Pin Designator/Name:  Old Designator=IC14-14 Old Name=VCC New Designator =VOA New Name=14
+Change Pin Designator/Name:  Old Designator=IC15-7 Old Name=IN1 New Designator =NC New Name=7
+Change Pin Designator/Name:  Old Designator=IC15-14 Old Name=VCC New Designator =VOA New Name=14

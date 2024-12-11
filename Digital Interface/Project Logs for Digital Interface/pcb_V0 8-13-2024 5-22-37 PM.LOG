@@ -1,0 +1,53 @@
+Change Component Footprint: Designator=SCRW1 Old Footprint=SCRW_PANH_PHLIPS_M5X10 New Footprint=SCRW_PANH_PHLIPS_M3X5
+Change Component Footprint: Designator=SCRW2 Old Footprint=SCRW_PANH_PHLIPS_M5X10 New Footprint=SCRW_PANH_PHLIPS_M3X5
+Change Component Footprint: Designator=SCRW3 Old Footprint=SCRW_PANH_PHLIPS_M5X10 New Footprint=SCRW_PANH_PHLIPS_M3X5
+Change Component Footprint: Designator=SCRW4 Old Footprint=SCRW_PANH_PHLIPS_M5X10 New Footprint=SCRW_PANH_PHLIPS_M3X5
+Change Component Footprint: Designator=SCRW5 Old Footprint=SCRW_PANH_PHLIPS_M5X10 New Footprint=SCRW_PANH_PHLIPS_M3X5
+Change Component Footprint: Designator=SCRW6 Old Footprint=SCRW_PANH_PHLIPS_M5X10 New Footprint=SCRW_PANH_PHLIPS_M3X5
+Add Component: Footprint Not Found QFN40P500X500X90-41N-D
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Pin To Net: Unknown Pin: Pin IC13-1
+Add Pin To Net: Unknown Pin: Pin IC13-2
+Add Pin To Net: Unknown Pin: Pin IC13-3
+Add Pin To Net: Unknown Pin: Pin IC13-4
+Add Pin To Net: Unknown Pin: Pin IC13-5
+Add Pin To Net: Unknown Pin: Pin IC13-6
+Add Pin To Net: Unknown Pin: Pin IC13-7
+Add Pin To Net: Unknown Pin: Pin IC13-8
+Add Pin To Net: Unknown Pin: Pin IC13-9
+Add Pin To Net: Unknown Pin: Pin IC13-10
+Add Pin To Net: Unknown Pin: Pin IC13-11
+Add Pin To Net: Unknown Pin: Pin IC13-12
+Add Pin To Net: Unknown Pin: Pin IC13-13
+Add Pin To Net: Unknown Pin: Pin IC13-14
+Add Pin To Net: Unknown Pin: Pin IC14-1
+Add Pin To Net: Unknown Pin: Pin IC14-2
+Add Pin To Net: Unknown Pin: Pin IC14-3
+Add Pin To Net: Unknown Pin: Pin IC14-4
+Add Pin To Net: Unknown Pin: Pin IC14-5
+Add Pin To Net: Unknown Pin: Pin IC14-6
+Add Pin To Net: Unknown Pin: Pin IC14-7
+Add Pin To Net: Unknown Pin: Pin IC14-8
+Add Pin To Net: Unknown Pin: Pin IC14-9
+Add Pin To Net: Unknown Pin: Pin IC14-10
+Add Pin To Net: Unknown Pin: Pin IC14-11
+Add Pin To Net: Unknown Pin: Pin IC14-12
+Add Pin To Net: Unknown Pin: Pin IC14-13
+Add Pin To Net: Unknown Pin: Pin IC14-14
+Add Pin To Net: Unknown Pin: Pin IC15-1
+Add Pin To Net: Unknown Pin: Pin IC15-2
+Add Pin To Net: Unknown Pin: Pin IC15-3
+Add Pin To Net: Unknown Pin: Pin IC15-4
+Add Pin To Net: Unknown Pin: Pin IC15-5
+Add Pin To Net: Unknown Pin: Pin IC15-6
+Add Pin To Net: Unknown Pin: Pin IC15-7
+Add Pin To Net: Unknown Pin: Pin IC15-8
+Add Pin To Net: Unknown Pin: Pin IC15-9
+Add Pin To Net: Unknown Pin: Pin IC15-14
+Add Class Member: Failed to add class member : Component IC11 ALC5651-CGT
+Add Class Member: Failed to add class member : Component IC13 SN74AHCT04PWR
+Add Class Member: Failed to add class member : Component IC14 SN74AHCT04PWR
+Add Class Member: Failed to add class member : Component IC15 SN74AHCT04PWR
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW6 SCREW

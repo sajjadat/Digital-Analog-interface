@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=GND_ISO Pin=IC13-7
+Removed Pin From Net: NetName=GND_ISO Pin=IC14-7
+Removed Pin From Net: NetName=GND_ISO Pin=IC15-7
+Removed Pin From Net: NetName=NetIC19_5 Pin=RA1-6
+Removed Pin From Net: NetName=NetIC19_4 Pin=RA1-7
+Removed Pin From Net: NetName=NetIC19_3 Pin=RA1-8
+Removed Pin From Net: NetName=NetIC19_15 Pin=RA5-3
+Removed Pin From Net: NetName=Power Switch Pin=RA5-6
+Removed Pin From Net: NetName=NetIC25_18 Pin=RA6-1
+Removed Pin From Net: NetName=NetIC20_16 Pin=RA6-2
+Removed Pin From Net: NetName=NetIC20_15 Pin=RA6-3
+Removed Pin From Net: NetName=NetIC22_16 Pin=RA14-2
+Removed Pin From Net: NetName=GPO5_OUT_Buff Pin=RA14-7
+Removed Member From Class: ClassName=Display  Member=IC14
+Removed Member From Class: ClassName=Display  Member=IC15
+Change Component Library : Designator=RA14 Old Library=res_smd_passive.SchLib New Library=passive_smd.SchLib
+Change component parameters: Designator = "RA1" ("RA1"); Footprint = "RP0603X4"; UniqueID = "\PHOCKPFJ" ("\PHOCKPFJ")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RA14" ("RA16"); Footprint = "RP0603X4"; UniqueID = "\YLQBZEYD" ("\YLQBZEYD")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100E"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Added Component: Designator=RA5(RP0603X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100E"; VariantName = "[No Variations]"
+Added Component: Designator=RA14(RP0603X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100E"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC3-7
+Add Pin To Net: Unknown Pin: Pin IC3-14
+Add Pin To Net: Unknown Pin: Pin IC8-7
+Add Pin To Net: Unknown Pin: Pin IC8-14
+Added Pin To Net: NetName=GND_ISO Pin=IC13-7
+Added Pin To Net: NetName=Current_Measurement_2_in- Pin=IC13-14
+Added Pin To Net: NetName=NetIC21_5 Pin=IC21-5
+Added Pin To Net: NetName=NetIC21_6 Pin=IC21-6
+Added Pin To Net: NetName=GPO2_OUT Pin=IC22-5
+Added Pin To Net: NetName=GPO3_OUT Pin=IC22-6
+Add Pin To Net: Unknown Pin: Pin M3-1
+Added Pin To Net: NetName=NetIC25_18 Pin=RA5-1
+Added Pin To Net: NetName=NetIC20_16 Pin=RA5-2
+Added Pin To Net: NetName=NetIC19_15 Pin=RA5-3
+Added Pin To Net: NetName=NetIC20_15 Pin=RA5-3
+Added Pin To Net: NetName=Power Switch Pin=RA5-6
+Added Pin To Net: NetName=NetIC22_16 Pin=RA14-2
+Added Pin To Net: NetName=NetIC19_5 Pin=RA14-6
+Added Pin To Net: NetName=GPO5_OUT_Buff Pin=RA14-7
+Added Pin To Net: NetName=NetIC19_4 Pin=RA14-7
+Added Pin To Net: NetName=NetIC19_3 Pin=RA14-8
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Change Class Name : Old Net Name=SD CARD  New Net Name=MCU Sup
+Added Class: Name=SD CARD 
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C91) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C93) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C95) 2.2uF
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C40) Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C69) Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C23) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C75) 0.1uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C17) 4.7uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C49) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C44) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C61) 2.2uF/6.3V
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C31) Capacitor Tantalum SMD
+Added Member To Class: ClassName=Audio Codec Member=Component C? (C55) 2.2uF/6.3V
+Added Member To Class: ClassName=Main Power Member=Component C? (C46) 10uF
+Added Member To Class: ClassName=Main Power Member=Component C? (C38) 0.1uF
+Added Member To Class: ClassName=Main Power Member=Component C? (C104) 0.1uF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C19) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C63) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C66) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C25) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C32) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C47) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C41) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C87) 100nF
+Added Member To Class: ClassName=Power Switch Member=Component C? (C54) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C155) 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C154) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C159) 2.2uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C160) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C158) ?nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C152) 100nF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C157) ?uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C151) 4.7uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C150) 1uF
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C156) =VALUE
+Added Member To Class: ClassName=MCU Sup Member=Component C? (C153) 4.7uF
+Added Member To Class: ClassName=Main Power Member=Component D? (D6) SS24F
+Added Member To Class: ClassName=Display  Member=Component IC3 SN74AHCT04PWR_1
+Add Class Member: Failed to add class member : Component IC8 SN74AHCT04PWR_1
+Added Member To Class: ClassName=Main Power Member=Component IC? (IC18) LD1117S18CTR
+Added Member To Class: ClassName=Power Switch Member=Component IC? (IC9) TPS2121RUXR
+Added Member To Class: ClassName=Audio Codec Member=Component JP? (JP6) JMPSOLDER
+Added Member To Class: ClassName=MCU Sup Member=Component JP? (JP7) JMPSOLDER
+Added Member To Class: ClassName=Audio Codec Member=Component R? (R65) 10K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R64) 10K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R60) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R58) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R56) 10K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R68) 5K
+Added Member To Class: ClassName=Power Switch Member=Component R? (R69) 5K
+Added Member To Class: ClassName=MCU Sup Member=Component R? (R90) 10K
+Added Member To Class: ClassName=MCU Sup Member=Component R? (R91) 10K
+Added Member To Class: ClassName=Level Shifting Member=Component RA5 (RA2A) Film Res Pack
+Added Member To Class: ClassName=Level Shifting Member=Component RA14 (RA16A) Film Res Pack
+Added Member To Class: ClassName=MCU Sup Member=Component SW? (SW1) PUSHBUTTON

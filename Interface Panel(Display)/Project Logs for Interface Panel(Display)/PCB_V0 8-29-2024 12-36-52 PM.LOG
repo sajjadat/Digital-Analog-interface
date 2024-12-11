@@ -1,0 +1,81 @@
+Added Component: Designator=SW1(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW8(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW9(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Disp Member=Component SW1 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW2 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW3 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW4 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW5 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW6 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW7 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW8 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW9 PUSHBUTTON

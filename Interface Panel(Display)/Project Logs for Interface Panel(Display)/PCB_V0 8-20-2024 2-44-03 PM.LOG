@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=M1 Old Footprint=SCMH_M3 New Footprint=SCMH_M2
+Change Component Footprint: Designator=M2 Old Footprint=SCMH_M3 New Footprint=SCMH_M2
+Change Component Footprint: Designator=M3 Old Footprint=SCMH_M3 New Footprint=SCMH_M2
+Change Component Footprint: Designator=M4 Old Footprint=SCMH_M3 New Footprint=SCMH_M2
+Change Component Footprint: Designator=M5 Old Footprint=SCMH_M3 New Footprint=SCMH_M2
+Change Component Footprint: Designator=M6 Old Footprint=SCMH_M3 New Footprint=SCMH_M2
+Added Member To Class: ClassName=screw and Hole Member=Component M1 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component M2 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component M3 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component M4 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW1 SCREW
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW2 SCREW
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW3 SCREW
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW4 SCREW

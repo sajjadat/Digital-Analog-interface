@@ -1,0 +1,355 @@
+Removed Pin From Net: NetName=Current_Measurement_4_in- Pin=IC6-1
+Removed Pin From Net: NetName=GPO0_OUT Pin=IC6-3
+Removed Pin From Net: NetName=GPO1_OUT Pin=IC6-4
+Removed Pin From Net: NetName=GPO2_OUT Pin=IC6-5
+Removed Pin From Net: NetName=GPO3_OUT Pin=IC6-6
+Removed Pin From Net: NetName=GND_ISO Pin=IC6-11
+Removed Pin From Net: NetName=GND_ISO Pin=IC6-12
+Removed Pin From Net: NetName=GND_ISO Pin=IC6-13
+Removed Pin From Net: NetName=GPI1_IN Pin=IC9-3
+Removed Pin From Net: NetName=GPI2_IN Pin=IC9-4
+Removed Pin From Net: NetName=GPI3_IN Pin=IC9-5
+Removed Pin From Net: NetName=GPI4_IN Pin=IC9-6
+Removed Pin From Net: NetName=GPI4_OUT Pin=IC9-11
+Removed Pin From Net: NetName=GPI3_OUT Pin=IC9-12
+Removed Pin From Net: NetName=GPI2_OUT Pin=IC9-13
+Removed Pin From Net: NetName=GPI1_OUT Pin=IC9-14
+Removed Pin From Net: NetName=GPI0_OUT Pin=P1-2
+Removed Pin From Net: NetName=GPI1_OUT Pin=P1-3
+Removed Pin From Net: NetName=GPI2_OUT Pin=P1-4
+Removed Pin From Net: NetName=GPI3_OUT Pin=P1-5
+Removed Pin From Net: NetName=GPI4_OUT Pin=P1-6
+Removed Pin From Net: NetName=GPI5_OUT Pin=P1-7
+Removed Pin From Net: NetName=GPI6_OUT Pin=P1-8
+Removed Pin From Net: NetName=GPI7_OUT Pin=P1-9
+Removed Pin From Net: NetName=GND_ISO Pin=P1-MH1
+Removed Pin From Net: NetName=GND_ISO Pin=P1-MH2
+Removed Pin From Net: NetName=GND_ISO Pin=P2-MH1
+Removed Pin From Net: NetName=GND_ISO Pin=P2-MH2
+Removed Pin From Net: NetName=GND_SER_485 Pin=P3-MH1
+Removed Pin From Net: NetName=GND_SER_485 Pin=P3-MH2
+Removed Pin From Net: NetName=GND_SER_232 Pin=P4-MH1
+Removed Pin From Net: NetName=GND_SER_232 Pin=P4-MH2
+Removed Pin From Net: NetName=GPI1_IN Pin=U10-43
+Removed Pin From Net: NetName=GPI2_IN Pin=U10-44
+Removed Pin From Net: NetName=GPI3_IN Pin=U10-45
+Removed Pin From Net: NetName=GPI4_IN Pin=U10-46
+Removed Pin From Net: NetName=GPI5_IN Pin=U10-48
+Removed Pin From Net: NetName=GPI6_IN Pin=U10-52
+Removed Pin From Net: NetName=GPI7_IN Pin=U10-53
+Removed Member From Class: ClassName=GPIOs Member=IC6
+Added Component: Designator=IC?(SOP64P600X175-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74lvc8t245dbqr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74lvc8t245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC8T245DBQR?qs=dT9u2OTAaVXsrjZUGB3%252Bbw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP64P600X175-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74lvc8t245dbqr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/sn74lvc8t245"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74LVC8T245DBQR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC8T245DBQR?qs=dT9u2OTAaVXsrjZUGB3%252Bbw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=M?(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K "; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=RA?(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW?(SCRW_PANH_SLOT_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=(RP0603X4)
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=-1
+Added Pin To Net: NetName=GPI1_IN Pin=IC9-4
+Added Pin To Net: NetName=GPI2_IN Pin=IC9-5
+Added Pin To Net: NetName=GPI3_IN Pin=IC9-6
+Added Pin To Net: NetName=GPI3_OUT Pin=IC9-11
+Added Pin To Net: NetName=GPI2_OUT Pin=IC9-12
+Added Pin To Net: NetName=GPI1_OUT Pin=IC9-13
+Added Pin To Net: NetName=GPI0_OUT Pin=IC9-14
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=IC?-1
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=IC?-1
+Added Pin To Net: NetName=GND_ISO Pin=IC?-11
+Added Pin To Net: NetName=GND_ISO Pin=IC?-11
+Added Pin To Net: NetName=GND_ISO Pin=IC?-12
+Added Pin To Net: NetName=GND_ISO Pin=IC?-12
+Added Pin To Net: NetName=GND_ISO Pin=IC?-13
+Added Pin To Net: NetName=GND_ISO Pin=IC?-13
+Added Pin To Net: NetName=GPI1_IN Pin=P1-3
+Added Pin To Net: NetName=GPI2_IN Pin=P1-4
+Added Pin To Net: NetName=GPI3_IN Pin=P1-5
+Added Pin To Net: NetName=GPI4_IN Pin=P1-6
+Added Pin To Net: NetName=GPI5_IN Pin=P1-7
+Added Pin To Net: NetName=GPI6_IN Pin=P1-8
+Added Pin To Net: NetName=GPI7_IN Pin=P1-9
+Added Pin To Net: NetName=SHILED Pin=P1-MH1
+Added Pin To Net: NetName=SHILED Pin=P1-MH2
+Added Pin To Net: NetName=SHILED Pin=P2-MH1
+Added Pin To Net: NetName=SHILED Pin=P2-MH2
+Added Pin To Net: NetName=SHILED Pin=P3-MH1
+Added Pin To Net: NetName=SHILED Pin=P3-MH2
+Added Pin To Net: NetName=SHILED Pin=P4-MH1
+Added Pin To Net: NetName=SHILED Pin=P4-MH2
+Added Pin To Net: NetName=SHILED Pin=P5-MH1
+Added Pin To Net: NetName=SHILED Pin=P5-MH2
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-1
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-2
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-2
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-3
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-3
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-4
+Added Pin To Net: NetName=Current_Measurement_4_in- Pin=RA?-4
+Added Pin To Net: NetName=GPI0_OUT Pin=U10-43
+Added Pin To Net: NetName=GPI1_OUT Pin=U10-44
+Added Pin To Net: NetName=GPI2_OUT Pin=U10-45
+Added Pin To Net: NetName=GPI3_OUT Pin=U10-46
+Added Pin To Net: NetName=GPI4_OUT Pin=U10-48
+Added Pin To Net: NetName=GPI5_OUT Pin=U10-52
+Added Pin To Net: NetName=GPI6_OUT Pin=U10-53
+Added Pin To Net: NetName=GPI7_OUT Pin=U10-54
+Added Pin To Net: NetName=GPI0_IN Pin=IC9-3
+Added Pin To Net: NetName=GPI0_IN Pin=P1-2
+Added Net: Name=GPI0_IN
+Added Pin To Net: NetName=Net_8 Pin=-8
+Added Pin To Net: NetName=Net_8 Pin=IC?-3
+Added Net: Name=Net_8
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_3 Pin=RA?-8
+Added Net: Name=NetIC?_3
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=RA?-7
+Added Net: Name=NetIC?_4
+Add Net: Net with name "NetIC?_4" already exists
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=RA?-6
+Added Net: Name=NetIC?_5
+Add Net: Net with name "NetIC?_5" already exists
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Pin To Net: NetName=NetIC?_6 Pin=RA?-5
+Added Net: Name=NetIC?_6
+Add Net: Net with name "NetIC?_6" already exists
+Added Pin To Net: NetName=NetIC?_7 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_7 Pin=RA?-8
+Added Net: Name=NetIC?_7
+Add Net: Net with name "NetIC?_7" already exists
+Added Pin To Net: NetName=NetIC?_8 Pin=IC?-8
+Added Pin To Net: NetName=NetIC?_8 Pin=RA?-7
+Added Net: Name=NetIC?_8
+Add Net: Net with name "NetIC?_8" already exists
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-9
+Added Pin To Net: NetName=NetIC?_9 Pin=RA?-6
+Added Net: Name=NetIC?_9
+Add Net: Net with name "NetIC?_9" already exists
+Added Pin To Net: NetName=NetIC?_10 Pin=IC?-10
+Added Pin To Net: NetName=NetIC?_10 Pin=RA?-5
+Added Net: Name=NetIC?_10
+Add Net: Net with name "NetIC?_10" already exists
+Added Pin To Net: NetName=NetIC?_14 Pin=IC?-14
+Added Pin To Net: NetName=NetIC?_14 Pin=RA?-4
+Added Net: Name=NetIC?_14
+Add Net: Net with name "NetIC?_14" already exists
+Added Pin To Net: NetName=NetIC?_15 Pin=IC?-15
+Added Pin To Net: NetName=NetIC?_15 Pin=RA?-3
+Added Net: Name=NetIC?_15
+Add Net: Net with name "NetIC?_15" already exists
+Added Pin To Net: NetName=NetIC?_16 Pin=IC?-16
+Added Pin To Net: NetName=NetIC?_16 Pin=RA?-2
+Added Net: Name=NetIC?_16
+Add Net: Net with name "NetIC?_16" already exists
+Added Pin To Net: NetName=NetIC?_17 Pin=IC?-17
+Added Pin To Net: NetName=NetIC?_17 Pin=RA?-1
+Added Net: Name=NetIC?_17
+Add Net: Net with name "NetIC?_17" already exists
+Added Pin To Net: NetName=NetIC?_18 Pin=IC?-18
+Added Pin To Net: NetName=NetIC?_18 Pin=RA?-4
+Added Net: Name=NetIC?_18
+Add Net: Net with name "NetIC?_18" already exists
+Added Pin To Net: NetName=NetIC?_19 Pin=IC?-19
+Added Pin To Net: NetName=NetIC?_19 Pin=RA?-3
+Added Net: Name=NetIC?_19
+Add Net: Net with name "NetIC?_19" already exists
+Added Pin To Net: NetName=NetIC?_20 Pin=IC?-20
+Added Pin To Net: NetName=NetIC?_20 Pin=RA?-2
+Added Net: Name=NetIC?_20
+Add Net: Net with name "NetIC?_20" already exists
+Added Pin To Net: NetName=NetIC?_21 Pin=IC?-21
+Added Pin To Net: NetName=NetIC?_21 Pin=RA?-1
+Added Net: Name=NetIC?_21
+Add Net: Net with name "NetIC?_21" already exists
+Added Pin To Net: NetName=Power Switch Pin=IC?-23
+Added Pin To Net: NetName=Power Switch Pin=IC?-23
+Added Pin To Net: NetName=Power Switch Pin=IC?-24
+Added Pin To Net: NetName=Power Switch Pin=IC?-24
+Added Net: Name=Power Switch
+Change Class Name : Old Net Name=Display New Net Name=Display 
+Added Member To Class: ClassName=GPIOs Member=Component IC? SN74LVC8T245DBQR
+Added Member To Class: ClassName=GPIOs Member=Component IC? SN74LVC8T245DBQR
+Added Member To Class: ClassName=GPIOs Member=Component M? DNP/MH
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component RA? Film Res Pack
+Added Member To Class: ClassName=GPIOs Member=Component SCRW? SCREW
+Added Member To Class: ClassName=GPIOs Member=Component  Film Res Pack

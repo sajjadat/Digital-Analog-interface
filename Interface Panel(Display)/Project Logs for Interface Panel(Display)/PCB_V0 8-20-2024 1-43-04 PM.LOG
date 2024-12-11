@@ -1,0 +1,68 @@
+Added Component: Designator=M1(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M2(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M3(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M4(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M5(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M6(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW1(SCRW_PANH_PHLIPS_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW2(SCRW_PANH_PHLIPS_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW3(SCRW_PANH_PHLIPS_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW4(SCRW_PANH_PHLIPS_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW5(SCRW_PANH_PHLIPS_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW6(SCRW_PANH_PHLIPS_M3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SHILED Pin=M1-1
+Added Pin To Net: NetName=SHILED Pin=M2-1
+Added Pin To Net: NetName=SHILED Pin=M3-1
+Added Pin To Net: NetName=SHILED Pin=M4-1
+Added Pin To Net: NetName=SHILED Pin=M5-1
+Added Pin To Net: NetName=SHILED Pin=M6-1
+Added Net: Name=SHILED
+Added Class: Name=screw and Hole

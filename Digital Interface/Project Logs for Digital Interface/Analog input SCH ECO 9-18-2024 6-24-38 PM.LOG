@@ -1,0 +1,78 @@
+Remove Pin=IC13-1 From Net=GPO0_OUT
+Remove Pin=IC13-2 From Net=\G\P\O\0\_\O\U\T\
+Remove Pin=IC13-3 From Net=GPO1_OUT
+Remove Pin=IC13-4 From Net=\G\P\O\1\_\O\U\T\
+Remove Pin=IC13-5 From Net=GPO2_OUT
+Remove Pin=IC13-6 From Net=\G\P\O\2\_\O\U\T\
+Remove Pin=IC13-8 From Net=\G\P\O\3\_\O\U\T\
+Remove Pin=IC13-9 From Net=GPO3_OUT
+Remove Pin=IC13-10 From Net=\G\P\O\4\_\O\U\T\
+Remove Pin=IC13-11 From Net=GPO4_OUT
+Remove Pin=IC13-12 From Net=\G\P\O\5\_\O\U\T\
+Remove Pin=IC13-13 From Net=GPO5_OUT
+Remove Pin=IC14-1 From Net=GPO6_OUT
+Remove Pin=IC14-2 From Net=\G\P\O\6\_\O\U\T\
+Remove Pin=IC14-3 From Net=GPO7_OUT
+Remove Pin=IC14-4 From Net=\G\P\O\7\_\O\U\T\
+Remove Pin=IC14-5 From Net=GPI0_IN
+Remove Pin=IC14-6 From Net=\G\P\I\0\_\I\N\
+Remove Pin=IC14-8 From Net=\G\P\I\1\_\I\N\
+Remove Pin=IC14-9 From Net=GPI1_IN
+Remove Pin=IC14-10 From Net=\G\P\I\2\_\I\N\
+Remove Pin=IC14-11 From Net=GPI2_IN
+Remove Pin=IC14-12 From Net=\G\P\I\3\_\I\N\
+Remove Pin=IC14-13 From Net=GPI3_IN
+Remove Pin=IC15-1 From Net=GPI4_IN
+Remove Pin=IC15-2 From Net=\G\P\I\4\_\I\N\
+Remove Pin=IC15-3 From Net=GPI5_IN
+Remove Pin=IC15-4 From Net=\G\P\I\5\_\I\N\
+Remove Pin=IC15-5 From Net=GPI6_IN
+Remove Pin=IC15-6 From Net=\G\P\I\6\_\I\N\
+Remove Pin=IC15-8 From Net=\G\P\I\7\_\I\N\
+Remove Pin=IC15-9 From Net=GPI7_IN
+Remove Pin=IC24-7 From Net=50_OHM_CN
+Remove Pin=IC28-22 From Net=\P\O\W\E\R\E\N\ _FT IN
+Remove Pin=IC29-22 From Net=\P\O\W\E\R\E\N\ _FT IN
+Remove Pin=J8-6 From Net=TDI_JTAG
+Remove Pin=J8-7 From Net=TDO_JTAG
+Remove Pin=J8-8 From Net=TMS_JTAG
+Remove Pin=J8-9 From Net=TCK_JTAG
+Remove Pin=J8-10 From Net=T\R\S\T\
+Remove Pin=J8-11 From Net=R\E\S\E\T\
+Remove Pin=J8-33 From Net=RES_SW
+Remove Pin=J9-6 From Net=\G\P\O\0\_\O\U\T\
+Remove Pin=J9-7 From Net=\G\P\O\1\_\O\U\T\
+Remove Pin=J9-8 From Net=\G\P\O\2\_\O\U\T\
+Remove Pin=J9-9 From Net=\G\P\O\3\_\O\U\T\
+Remove Pin=J9-10 From Net=\G\P\O\4\_\O\U\T\
+Remove Pin=J9-11 From Net=\G\P\O\5\_\O\U\T\
+Remove Pin=J9-12 From Net=\G\P\O\6\_\O\U\T\
+Remove Pin=J9-13 From Net=\G\P\O\7\_\O\U\T\
+Remove Pin=JP1-1 From Net=MCU_VDD
+Remove Pin=JP1-2 From Net=MainMCU_3V3
+Remove Pin=JP2-1 From Net=HUB_VDD
+Remove Pin=JP2-2 From Net=HUB_3V3
+Remove Pin=JP3-1 From Net=Serial_VDD
+Remove Pin=JP3-2 From Net=RS232_VDD
+Remove Pin=JP4-1 From Net=Serial_VDD
+Remove Pin=JP4-2 From Net=RS485_VDD
+Remove Pin=JP6-1 From Net=Audio_VDD_3V3
+Remove Pin=R40-1 From Net=Current_Measurement_4_in+
+Remove Pin=RA5A-8 From Net=CS_SPI
+Change Component Comment: Designator=R14 Old Comment==VALUE New Comment=0R
+Change Component Comment: Designator=R7 Old Comment==VALUE New Comment=10K
+Add Pin To Net: Pin=IC24-9 Old Net=NetIC24_9 New Net=50_OHM_CN
+Add Pin To Net: Pin=J8-8 Old Net=TMS_JTAG New Net=TDI_JTAG
+Add Pin To Net: Pin=J8-9 Old Net=TCK_JTAG New Net=TDO_JTAG
+Add Pin To Net: Pin=J8-10 Old Net=T\R\S\T\ New Net=TMS_JTAG
+Add Pin To Net: Pin=J8-11 Old Net=R\E\S\E\T\ New Net=TCK_JTAG
+Add Pin To Net: Pin=J8-12 Old Net=NetJ8_12 New Net=T\R\S\T\
+Add Pin To Net: Pin=J8-13 Old Net=NetJ8_13 New Net=R\E\S\E\T\
+Add Pin To Net: Pin=R4-1 Old Net=Current_Measurement_4_in- New Net=Current_Measurement_4_in+
+Add Pin To Net: Pin=R39-2 Old Net=Current_Measurement_4_in- New Net=Current_Measurement_4_in+
+Add Pin To Net: Pin=RA4A-1 Old Net=NetRA4_1 New Net=RX_TTL_2
+Add Pin To Net: Pin=RA6A-8 Old Net=NetRA6_8 New Net=CS_SPI
+Change Pin Designator/Name:  Old Designator=IC22-23 Old Name=HPO_L New Designator =AGND New Name=10
+Change Pin Designator/Name:  Old Designator=IC22-24 Old Name=PDM_SDA New Designator =HPGND New Name=41
+Change Pin Designator/Name:  Old Designator=J9-4 Old Name=VCC New Designator =RED1 New Name=6
+Change Pin Designator/Name:  Old Designator=J9-5 Old Name=RED0 New Designator =RED2 New Name=7

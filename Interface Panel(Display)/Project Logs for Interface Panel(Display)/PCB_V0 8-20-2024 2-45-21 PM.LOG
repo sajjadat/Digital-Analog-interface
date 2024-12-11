@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=SCRW1 Old Footprint=SCRW_PANH_PHLIPS_M3X5 New Footprint=SCRW_CHSH_PHLIPS_M2X4
+Change Component Footprint: Designator=SCRW2 Old Footprint=SCRW_PANH_PHLIPS_M3X5 New Footprint=SCRW_CHSH_PHLIPS_M2X4
+Change Component Footprint: Designator=SCRW3 Old Footprint=SCRW_PANH_PHLIPS_M3X5 New Footprint=SCRW_CHSH_PHLIPS_M2X4
+Change Component Footprint: Designator=SCRW4 Old Footprint=SCRW_PANH_PHLIPS_M3X5 New Footprint=SCRW_CHSH_PHLIPS_M2X4
+Added Component: Designator=M5(SCMH_M2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M6(SCMH_M2)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW5(SCRW_CHSH_PHLIPS_M2X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW6(SCRW_CHSH_PHLIPS_M2X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SHILED Pin=M5-1
+Added Pin To Net: NetName=SHILED Pin=M6-1
+Added Member To Class: ClassName=screw and Hole Member=Component M5 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component M6 DNP/MH
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW5 SCREW
+Added Member To Class: ClassName=screw and Hole Member=Component SCRW6 SCREW

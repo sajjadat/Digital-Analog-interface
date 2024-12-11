@@ -1,0 +1,22 @@
+Remove Pin=RA?A-1 From Net=RX_TTL_1
+Remove Pin=RA?B-2 From Net=SDA_I2C_IN
+Remove Pin=RA?C-3 From Net=MISO_SPI_1
+Remove Pin=RA?C-6 From Net=TDI_JTAG
+Remove Pin=RA?B-7 From Net=TCK_JTAG
+Remove Pin=RA?A-8 From Net=CS_SPI
+Change Pin Designator/Name:  Old Designator=IC?-23 Old Name=VCCB_1 New Designator =VSS New Name=5
+Change Pin Designator/Name:  Old Designator=IC?-24 Old Name=VCCB_2 New Designator =GND New Name=6
+Change Pin Designator/Name:  Old Designator=IC?-23 Old Name=VCCB_1 New Designator =VSS New Name=5
+Change Pin Designator/Name:  Old Designator=IC?-24 Old Name=VCCB_2 New Designator =GND New Name=6
+Change Pin Designator/Name:  Old Designator=J?-6 Old Name=RED1 New Designator =RED1 New Name=6
+Change Pin Designator/Name:  Old Designator=J?-7 Old Name=RED2 New Designator =RED2 New Name=7
+Change Pin Designator/Name:  Old Designator=J?-6 Old Name=RED1 New Designator =RED1 New Name=6
+Change Pin Designator/Name:  Old Designator=J?-7 Old Name=RED2 New Designator =RED2 New Name=7
+Change Pin Designator/Name:  Old Designator=RA?A-8 Old Name=8 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=RA?A-8 Old Name=8 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=RA?A-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=RA?A-8 Old Name=8 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=RA?A-8 Old Name=8 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=RA?A-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=RA?A-8 Old Name=8 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=RA?A-1 Old Name=1 New Designator =1 New Name=1

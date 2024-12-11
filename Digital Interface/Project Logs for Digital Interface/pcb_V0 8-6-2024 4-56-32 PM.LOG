@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=Isolators Member=C97
+Removed Member From Class: ClassName=Isolators Member=C99
+Removed Member From Class: ClassName=Isolators Member=C100
+Removed Member From Class: ClassName=Isolators Member=C101
+Removed Member From Class: ClassName=Isolators Member=C102
+Removed Member From Class: ClassName=Isolators Member=C104
+Removed Member From Class: ClassName=FT2232HL West Member=C106
+Removed Member From Class: ClassName=Isolators Member=C106
+Removed Member From Class: ClassName=FT2232HL West Member=C113
+Removed Member From Class: ClassName=FT2232HL East Member=C118
+Removed Member From Class: ClassName=FT2232HL East Member=C119
+Removed Member From Class: ClassName=FT2232HL East Member=C120
+Removed Member From Class: ClassName=MCU Sup Member=P8
+Removed Member From Class: ClassName=MCU 1 Member=P9
+Removed Member From Class: ClassName=SPI , I2C Member=P9
+Removed Member From Class: ClassName=Terminals Member=P9
+Added Member To Class: ClassName=Isolators Member=Component C82 100nF
+Added Member To Class: ClassName=Isolators Member=Component C83 100nF
+Added Member To Class: ClassName=Isolators Member=Component C84 100nF
+Added Member To Class: ClassName=Isolators Member=Component C85 100nF
+Added Member To Class: ClassName=Isolators Member=Component C86 100nF
+Added Member To Class: ClassName=Isolators Member=Component C87 100nF
+Added Member To Class: ClassName=Isolators Member=Component C88 100nF
+Added Member To Class: ClassName=Isolators Member=Component C89 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C90 4.7uF
+Added Member To Class: ClassName=FT2232HL West Member=Component C91 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C92 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C93 4.7uF
+Added Member To Class: ClassName=FT2232HL West Member=Component C94 100nF
+Added Member To Class: ClassName=FT2232HL West Member=Component C95 30PF
+Added Member To Class: ClassName=FT2232HL West Member=Component C96 4.7uF
+Added Member To Class: ClassName=FT2232HL West Member=Component C98 30PF
+Added Member To Class: ClassName=FT2232HL West Member=Component C105 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C107 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C108 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C109 30PF
+Added Member To Class: ClassName=FT2232HL East Member=Component C110 30PF
+Added Member To Class: ClassName=FT2232HL East Member=Component C111 100nF
+Added Member To Class: ClassName=FT2232HL East Member=Component C112 100nF
+Added Member To Class: ClassName=Isolators Member=Component IC9 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Terminals Member=Component P4 DSUB_9RF
+Added Member To Class: ClassName=MCU 1 Member=Component P5 Header 3
+Added Member To Class: ClassName=MCU Sup Member=Component P6 Header 2x3
+Added Member To Class: ClassName=SPI , I2C Member=Component P7 Header 4
+Added Member To Class: ClassName=USB_TTL Member=Component R52 10K

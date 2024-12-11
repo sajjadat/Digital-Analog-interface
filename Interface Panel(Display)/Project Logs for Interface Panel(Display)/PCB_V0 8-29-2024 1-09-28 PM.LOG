@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW9
+Change Component Designator: OldDesignator=SW8 NewDesignator=SW10
+Change Component Designator: OldDesignator=SW9 NewDesignator=SW8
+Added Component: Designator=SW4(SWPBS_SPDT_3X3TS)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "CHINA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(SWPBS_SPDT_3X3TS)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "CHINA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1233"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "1000= 5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Disp Member=Component SW10 PUSHBUTTON

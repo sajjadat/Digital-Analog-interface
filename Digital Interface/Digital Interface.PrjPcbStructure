@@ -1,0 +1,29 @@
+Record=TopLevelDocument|FileName=Analog input.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Analog Output.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Audio Codec.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=AUX Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=BIT(Built in Test).SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Buffers.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Display .SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=FT2232HL_IN.SchDoc|SheetNumber=25
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=FT2232HL_OUT.SchDoc|SheetNumber=26
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Iso Power Protection.SchDoc|SheetNumber=24
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Isolators.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Level Shifting.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Main Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=MCU 1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=MCU GPIO.SchDoc|SheetNumber=20
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=MCU Sup.SchDoc|SheetNumber=21
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Mode Switch.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=On Board Terminals.SchDoc|SheetNumber=28
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Power Switch.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=RS232.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=RS485.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=screw and Hole.SchDoc|SheetNumber=29
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=SD CARD .SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Sync In.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Sync Out.SchDoc|SheetNumber=23
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Terminals.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=Test Points.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=USB HUB.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Analog input.SchDoc|FileName=USB_TTL.SchDoc|SheetNumber=27

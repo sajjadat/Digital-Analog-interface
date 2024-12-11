@@ -1,0 +1,49 @@
+Added Component: Designator=J8(SMA_RA)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "50Ohm, 20GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "6.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "Right Angel SMA"; VariantName = "[No Variations]"
+Added Component: Designator=J9(SMA_RA)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "50Ohm, 20GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "6.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "Right Angel SMA"; VariantName = "[No Variations]"
+Added Component: Designator=J10(SMA_RA)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "50Ohm, 20GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "6.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "Right Angel SMA"; VariantName = "[No Variations]"
+Added Component: Designator=J11(SMA_RA)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "DIGIKEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SMA-J-P-H-RA-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "50Ohm, 20GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "GOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "6.3$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "Right Angel SMA"; VariantName = "[No Variations]"
+Added Component: Designator=P5(DSUB_25RF)
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DSUB_25RF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Terminals Member=Component J8 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J9 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J10 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component J11 Right Angel SMA
+Added Member To Class: ClassName=Terminals Member=Component P5 DSUB_25RF

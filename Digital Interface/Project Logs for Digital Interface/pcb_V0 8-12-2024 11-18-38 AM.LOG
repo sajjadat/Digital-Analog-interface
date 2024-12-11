@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=ON/OFF Remote Pin=U1-6
+Added Component: Designator=R55(R2010)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "680E"; VariantName = "[No Variations]"
+Added Component: Designator=R56(R2010)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "-W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "100= 0.5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR53_2 Pin=R55-2
+Added Pin To Net: NetName=GND1 Pin=R56-1
+Added Pin To Net: NetName=+Vin Pin=SW3-2
+Change Net Name : Old Net Name=ON/OFF Remote New Net Name=ON/OFF Remote1
+Added Pin To Net: NetName=ON/OFF Remote2 Pin=R55-1
+Added Pin To Net: NetName=ON/OFF Remote2 Pin=R56-2
+Added Pin To Net: NetName=ON/OFF Remote2 Pin=U1-6
+Added Net: Name=ON/OFF Remote2
+Added Member To Class: ClassName=Power Switch Member=Component R55 680E
+Added Member To Class: ClassName=Power Switch Member=Component R56 1K

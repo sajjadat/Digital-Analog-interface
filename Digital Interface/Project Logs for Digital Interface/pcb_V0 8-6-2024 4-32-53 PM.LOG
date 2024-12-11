@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=A_485 Pin=P?-2
+Removed Pin From Net: NetName=B_485 Pin=P?-3
+Removed Pin From Net: NetName=Y_485 Pin=P?-4
+Removed Pin From Net: NetName=GND_SER_485 Pin=P?-5
+Removed Pin From Net: NetName=ADM3251_RX Pin=U5-8
+Change Component Designator: OldDesignator=C82 NewDesignator=C90
+Change Component Designator: OldDesignator=C83 NewDesignator=C91
+Change Component Designator: OldDesignator=C84 NewDesignator=C92
+Change Component Designator: OldDesignator=C85 NewDesignator=C93
+Change Component Designator: OldDesignator=C86 NewDesignator=C94
+Change Component Designator: OldDesignator=C87 NewDesignator=C95
+Change Component Designator: OldDesignator=C88 NewDesignator=C96
+Change Component Designator: OldDesignator=C89 NewDesignator=C97
+Change Component Designator: OldDesignator=C90 NewDesignator=C98
+Change Component Designator: OldDesignator=C91 NewDesignator=C99
+Change Component Designator: OldDesignator=C92 NewDesignator=C100
+Change Component Designator: OldDesignator=C93 NewDesignator=C101
+Change Component Designator: OldDesignator=C94 NewDesignator=C102
+Change Component Designator: OldDesignator=C95 NewDesignator=C103
+Change Component Designator: OldDesignator=C96 NewDesignator=C104
+Change Component Designator: OldDesignator=C97 NewDesignator=C105
+Change Component Designator: OldDesignator=C98 NewDesignator=C106
+Change Component Designator: OldDesignator=C99 NewDesignator=C107
+Change Component Designator: OldDesignator=C100 NewDesignator=C108
+Change Component Designator: OldDesignator=C101 NewDesignator=C109
+Change Component Designator: OldDesignator=C102 NewDesignator=C110
+Change Component Designator: OldDesignator=C103 NewDesignator=C111
+Change Component Designator: OldDesignator=C104 NewDesignator=C112
+Change Component Designator: OldDesignator=C105 NewDesignator=C113
+Change Component Designator: OldDesignator=C106 NewDesignator=C114
+Change Component Designator: OldDesignator=C107 NewDesignator=C115
+Change Component Designator: OldDesignator=C108 NewDesignator=C116
+Change Component Designator: OldDesignator=C109 NewDesignator=C117
+Change Component Designator: OldDesignator=C110 NewDesignator=C118
+Change Component Designator: OldDesignator=C111 NewDesignator=C119
+Change Component Designator: OldDesignator=C112 NewDesignator=C120
+Change Component Designator: OldDesignator=C113 NewDesignator=C121
+Change Component Designator: OldDesignator=C? NewDesignator=C82
+Change Component Designator: OldDesignator=C? NewDesignator=C83
+Change Component Designator: OldDesignator=C? NewDesignator=C84
+Change Component Designator: OldDesignator=C? NewDesignator=C85
+Change Component Designator: OldDesignator=C? NewDesignator=C86
+Change Component Designator: OldDesignator=C? NewDesignator=C87
+Change Component Designator: OldDesignator=C? NewDesignator=C88
+Change Component Designator: OldDesignator=C? NewDesignator=C89
+Change Component Designator: OldDesignator=IC? NewDesignator=IC7
+Change Component Designator: OldDesignator=IC? NewDesignator=IC8
+Change Component Designator: OldDesignator=IC? NewDesignator=IC9
+Change Component Designator: OldDesignator=IC? NewDesignator=IC10
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Change Component Designator: OldDesignator=P6 NewDesignator=P8
+Change Component Designator: OldDesignator=P7 NewDesignator=P9
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Added Pin To Net: NetName=GND_SER_485 Pin=P3-1
+Added Pin To Net: NetName=A_485 Pin=P3-4
+Added Pin To Net: NetName=B_485 Pin=P3-5
+Added Pin To Net: NetName=Z_485 Pin=P3-8
+Added Pin To Net: NetName=Y_485 Pin=P3-9
+Added Pin To Net: NetName=GND_SER_232 Pin=P4-5
+Added Pin To Net: NetName=GND_SER_232 Pin=P4-MH1
+Added Pin To Net: NetName=GND_SER_232 Pin=P4-MH2
+Added Pin To Net: NetName=ADM3251_RX Pin=U5-15
+Change Net Name : Old Net Name=NetC87_1 New Net Name=NetC95_1
+Change Net Name : Old Net Name=NetC90_1 New Net Name=NetC98_1
+Change Net Name : Old Net Name=NetC101_1 New Net Name=NetC109_1
+Change Net Name : Old Net Name=NetC102_1 New Net Name=NetC110_1
+Change Net Name : Old Net Name=NetC111_1 New Net Name=NetC119_1
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP5_2
+Change Net Name : Old Net Name=NetP4_3 New Net Name=NetP6_3
+Change Net Name : Old Net Name=NetP4_4 New Net Name=NetP6_4
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR51_2
+Added Pin To Net: NetName=RX_232 Pin=P4-2
+Added Pin To Net: NetName=RX_232 Pin=U5-8
+Added Net: Name=RX_232
+Added Pin To Net: NetName=TX_232 Pin=P4-3
+Added Pin To Net: NetName=TX_232 Pin=U5-16
+Added Net: Name=TX_232
+Added Member To Class: ClassName=Isolators Member=Component C82 100nF
+Added Member To Class: ClassName=Isolators Member=Component C83 100nF
+Added Member To Class: ClassName=Isolators Member=Component C84 100nF
+Added Member To Class: ClassName=Isolators Member=Component C85 100nF
+Added Member To Class: ClassName=Isolators Member=Component C86 100nF
+Added Member To Class: ClassName=Isolators Member=Component C88 100nF
+Added Member To Class: ClassName=Isolators Member=Component C89 100nF
+Added Member To Class: ClassName=Isolators Member=Component IC7 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC8 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Isolators Member=Component IC10 ADUM1400BRWZ-RL
+Added Member To Class: ClassName=Terminals Member=Component P3 DSUB_9RF
+Added Member To Class: ClassName=USB_TTL Member=Component R51 10K

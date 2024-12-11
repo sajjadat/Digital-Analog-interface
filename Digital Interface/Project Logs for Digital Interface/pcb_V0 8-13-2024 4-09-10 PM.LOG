@@ -1,0 +1,113 @@
+Add Component: Footprint Not Found QFN40P500X500X90-41N-D
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Add Component: Footprint Not Found SOP65P640X120-14N
+Added Component: Designator=M1(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M2(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M3(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M4(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M5(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=M6(SCMH_M3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DNP/MH"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW1(SCRW_PANH_PHLIPS_M5X10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW2(SCRW_PANH_PHLIPS_M5X10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW3(SCRW_PANH_PHLIPS_M5X10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW4(SCRW_PANH_PHLIPS_M5X10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW5(SCRW_PANH_PHLIPS_M5X10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Added Component: Designator=SCRW6(SCRW_PANH_PHLIPS_M5X10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "SCREW"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC13-1
+Add Pin To Net: Unknown Pin: Pin IC13-2
+Add Pin To Net: Unknown Pin: Pin IC13-3
+Add Pin To Net: Unknown Pin: Pin IC13-4
+Add Pin To Net: Unknown Pin: Pin IC13-5
+Add Pin To Net: Unknown Pin: Pin IC13-6
+Add Pin To Net: Unknown Pin: Pin IC13-7
+Add Pin To Net: Unknown Pin: Pin IC13-8
+Add Pin To Net: Unknown Pin: Pin IC13-9
+Add Pin To Net: Unknown Pin: Pin IC13-10
+Add Pin To Net: Unknown Pin: Pin IC13-11
+Add Pin To Net: Unknown Pin: Pin IC13-12
+Add Pin To Net: Unknown Pin: Pin IC13-13
+Add Pin To Net: Unknown Pin: Pin IC13-14
+Add Pin To Net: Unknown Pin: Pin IC14-1
+Add Pin To Net: Unknown Pin: Pin IC14-2
+Add Pin To Net: Unknown Pin: Pin IC14-3
+Add Pin To Net: Unknown Pin: Pin IC14-4
+Add Pin To Net: Unknown Pin: Pin IC14-5
+Add Pin To Net: Unknown Pin: Pin IC14-6
+Add Pin To Net: Unknown Pin: Pin IC14-7
+Add Pin To Net: Unknown Pin: Pin IC14-8
+Add Pin To Net: Unknown Pin: Pin IC14-9
+Add Pin To Net: Unknown Pin: Pin IC14-10
+Add Pin To Net: Unknown Pin: Pin IC14-11
+Add Pin To Net: Unknown Pin: Pin IC14-12
+Add Pin To Net: Unknown Pin: Pin IC14-13
+Add Pin To Net: Unknown Pin: Pin IC14-14
+Add Pin To Net: Unknown Pin: Pin IC15-1
+Add Pin To Net: Unknown Pin: Pin IC15-2
+Add Pin To Net: Unknown Pin: Pin IC15-3
+Add Pin To Net: Unknown Pin: Pin IC15-4
+Add Pin To Net: Unknown Pin: Pin IC15-5
+Add Pin To Net: Unknown Pin: Pin IC15-6
+Add Pin To Net: Unknown Pin: Pin IC15-7
+Add Pin To Net: Unknown Pin: Pin IC15-8
+Add Pin To Net: Unknown Pin: Pin IC15-9
+Add Pin To Net: Unknown Pin: Pin IC15-14
+Added Pin To Net: NetName=SHILED Pin=M1-1
+Added Pin To Net: NetName=SHILED Pin=M2-1
+Added Pin To Net: NetName=SHILED Pin=M3-1
+Added Pin To Net: NetName=SHILED Pin=M4-1
+Added Pin To Net: NetName=SHILED Pin=M5-1
+Added Pin To Net: NetName=SHILED Pin=M6-1
+Added Class: Name=screw and Hole
+Add Class Member: Failed to add class member : Component IC11 ALC5651-CGT
+Add Class Member: Failed to add class member : Component IC13 SN74AHCT04PWR
+Add Class Member: Failed to add class member : Component IC14 SN74AHCT04PWR
+Add Class Member: Failed to add class member : Component IC15 SN74AHCT04PWR

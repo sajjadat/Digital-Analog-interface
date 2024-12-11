@@ -1,0 +1,94 @@
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW10
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW3
+Added Component: Designator=SW2(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SWPBS_SPST_6X3X5)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "SKQMBBE010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW8(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW9(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW11(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Component: Designator=SW12(SWPBS_SPDT_6X6X4)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "Bond-Tact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "TS-1143S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "PARAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "PUSHBUTTON"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=NetSW5_1 Pin=SW5-1
+Added Pin To Net: NetName=NetSW5_1 Pin=SW6-1
+Added Net: Name=NetSW5_1
+Added Pin To Net: NetName=NetSW5_2 Pin=SW5-2
+Added Pin To Net: NetName=NetSW5_2 Pin=SW6-2
+Added Net: Name=NetSW5_2
+Added Pin To Net: NetName=NetSW5_3 Pin=SW5-3
+Added Pin To Net: NetName=NetSW5_3 Pin=SW6-3
+Added Net: Name=NetSW5_3
+Added Pin To Net: NetName=NetSW5_4 Pin=SW5-4
+Added Pin To Net: NetName=NetSW5_4 Pin=SW6-4
+Added Net: Name=NetSW5_4
+Added Pin To Net: NetName=NetSW9_1 Pin=SW9-1
+Added Pin To Net: NetName=NetSW9_1 Pin=SW10-1
+Added Net: Name=NetSW9_1
+Added Pin To Net: NetName=NetSW9_2 Pin=SW9-2
+Added Pin To Net: NetName=NetSW9_2 Pin=SW10-2
+Added Net: Name=NetSW9_2
+Added Pin To Net: NetName=NetSW9_3 Pin=SW9-3
+Added Pin To Net: NetName=NetSW9_3 Pin=SW10-3
+Added Net: Name=NetSW9_3
+Added Pin To Net: NetName=NetSW9_4 Pin=SW9-4
+Added Pin To Net: NetName=NetSW9_4 Pin=SW10-4
+Added Net: Name=NetSW9_4
+Added Pin To Net: NetName=RES_SW Pin=J2-8
+Added Pin To Net: NetName=RES_SW Pin=SW4-2
+Added Net: Name=RES_SW
+Added Member To Class: ClassName=Disp Member=Component SW4 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW7 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW8 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW9 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW10 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW11 PUSHBUTTON
+Added Member To Class: ClassName=Disp Member=Component SW12 PUSHBUTTON
